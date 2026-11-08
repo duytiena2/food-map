@@ -129,3 +129,49 @@ Kho lưu trữ các quán ăn, món ngon, review thực tế thu thập hàng ng
 * **Tags:** `#Gò Vấp`, `#Món Thái`, `#Sườn cây`, `#Núp hẻm`
 
 ---
+
+## 12. Bò Bít Tết Củ Hành Tây (Gò Vấp) (Gò Vấp)
+![Bò Bít Tết Củ Hành Tây (Gò Vấp)](images/bo_bit_tet_cu_hanh_tay.jpg)
+* **Địa chỉ:** 393 - 395 Lê Quang Định, P.5 & 189 Nguyễn Oanh, P.17, Gò Vấp, TP.HCM
+* **Hotline:** 028 3515 0524
+* **Món chính / Must-try:** Bít tết thập cẩm (bò, pate, trứng ốp la, xíu mại, phô mai), Bò sốt tiêu đen, Bánh mì nóng giòn, Salad dầu giấm
+* **Giá cả:** 65.000 - 120.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Quán bít tết lâu năm nức tiếng Gò Vấp, thịt bò ướp mềm đậm vị không bị dai, chảo gang nóng xèo xèo, không gian máy lạnh sạch sẽ, phục vụ rất nhanh.
+* **Nguồn review & Link bài viết:** [Review ẩm thực Sài Gòn / Foody](https://www.foody.vn/ho-chi-minh/bo-cu-hanh-tay-le-quang-dinh)
+* **Tags:** `#Gò Vấp`, `#Bò bít tết`, `#Củ Hành Tây`, `#Lê Quang Định`, `#Nguyễn Oanh`, `#Ăn tối`
+
+---
+
+## 13. Beefsteak TiTi (Phan Văn Trị) (Gò Vấp)
+![Beefsteak TiTi (Phan Văn Trị)](images/beefsteak_titi_go_vap.jpg)
+* **Địa chỉ:** 467 Phan Văn Trị, Phường 5, Quận Gò Vấp, TP.HCM (gần Emart)
+* **Hotline:** 090 274 72 73
+* **Món chính / Must-try:** Bò Mỹ sốt tiêu đen, Bò sốt phô mai cay, Khoai tây nghiền, Salad cá ngừ
+* **Giá cả:** 90.000 - 180.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Không gian ấm cúng, sang trọng vừa phải rất hợp hẹn hò hoặc ăn gia đình; thịt bò mềm mọng nước có thể chọn độ chín (Medium-rare/Medium), sốt tiêu và phô mai béo thơm đặc trưng.
+* **Nguồn review & Link bài viết:** [Foody / Riviu Beefsteak](https://www.foody.vn/ho-chi-minh/beefsteak-titi-phan-van-tri)
+* **Tags:** `#Gò Vấp`, `#Beefsteak`, `#TiTi`, `#Phan Văn Trị`, `#Hẹn hò`, `#Gia đình`
+
+---
+
+## 14. Bò Bít Tết Hỏa Xa (Gò Vấp)
+![Bò Bít Tết Hỏa Xa](images/bo_bit_tet_hoa_xa.jpg)
+* **Địa chỉ:** 168 Phan Văn Trị, Phường 10, Quận Gò Vấp, TP.HCM
+* **Món chính / Must-try:** Bít tết chảo gang truyền thống, Bò né thập cẩm, Bắp bò lúc lắc
+* **Giá cả:** 45.000 - 85.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Bít tết phong cách truyền thống bình dân mở lâu năm; pate béo bùi, nước sốt sệt chấm bánh mì cực cuốn, giá bình dân.
+* **Nguồn review & Link bài viết:** [Cộng đồng ẩm thực Gò Vấp](https://www.foody.vn/ho-chi-minh/bit-tet-hoa-xa)
+* **Tags:** `#Gò Vấp`, `#Bò bít tết`, `#Hỏa Xa`, `#Phan Văn Trị`, `#Bình dân`
+
+---
+
+## 15. Bò Bít Tết & Bò Né 3 Ngon (Gò Vấp)
+![Bò Bít Tết & Bò Né 3 Ngon](images/bo_ne_3_ngon.jpg)
+* **Địa chỉ:** 484 Lê Văn Thọ, Phường 16, Quận Gò Vấp, TP.HCM
+* **Món chính / Must-try:** Chảo bò né thập cẩm đặc biệt, Bò bít tết phô mai, Xúc xích trứng ốp la
+* **Giá cả:** 35.000 - 65.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Chuỗi bò né bình dân giá sinh viên quen thuộc; chảo gang sôi bùng khói thơm phức, phục vụ nhanh, ăn sáng hay ăn tối đều tiện.
+* **Nguồn review & Link bài viết:** [Địa điểm ăn uống Gò Vấp](https://www.foody.vn/ho-chi-minh/3-ngon-bo-ne-le-van-tho)
+* **Tags:** `#Gò Vấp`, `#Bò né`, `#3 Ngon`, `#Lê Văn Thọ`, `#Giá rẻ`
+
+---
