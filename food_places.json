@@ -29,7 +29,7 @@
     ],
     "date_added": "2026-11-08",
     "city": "Hồ Chí Minh",
-    "source_url": ""
+    "source_url": "https://www.threads.net"
   },
   {
     "id": "buncha-banhcuon-tuiminhbanbuncha-29",
@@ -57,7 +57,7 @@
     ],
     "date_added": "2026-11-08",
     "city": "Hồ Chí Minh",
-    "source_url": ""
+    "source_url": "https://www.threads.net/@tuiminhbanbuncha.29"
   },
   {
     "id": "com-tam-dem-6-teo",
@@ -73,7 +73,9 @@
     ],
     "price_range": "35.000 - 55.000 VNĐ",
     "highlights": "Quán cơm tấm đêm siêu đông khách, sườn ướp đậm đà nướng than thơm lừng không bị khô, nước mắm kẹo bắt miệng, phục vụ nhanh.",
-    "images": [],
+    "images": [
+      "images/com_tam_6_teo.jpg"
+    ],
     "source": "Threads / MXH Food Review",
     "tags": [
       "Gò Vấp",
@@ -83,7 +85,7 @@
     ],
     "date_added": "2026-11-08",
     "city": "Hồ Chí Minh",
-    "source_url": ""
+    "source_url": "https://www.lemon8-app.com/@saigon_angi27590/7682637121236107794"
   },
   {
     "id": "oc-lac-co-mai",
@@ -99,7 +101,9 @@
     ],
     "price_range": "40.000 - 90.000 VNĐ",
     "highlights": "Quán ốc núp hẻm có view sân thượng cực chill, hải sản tươi ngon đậm đà, nhân viên nhiệt tình, đông khách vào chiều tối.",
-    "images": [],
+    "images": [
+      "images/oc_lac_co_mai.jpg"
+    ],
     "source": "Threads / TopTop",
     "tags": [
       "Gò Vấp",
@@ -109,7 +113,7 @@
     ],
     "date_added": "2026-11-08",
     "city": "Hồ Chí Minh",
-    "source_url": ""
+    "source_url": "https://www.lemon8-app.com/@naominhcunglan_/7188094721783366146"
   },
   {
     "id": "lau-ech-sau-hieu",
@@ -125,7 +129,9 @@
     ],
     "price_range": "100.000 - 200.000 VNĐ",
     "highlights": "Thương hiệu lẩu ếch trứ danh Gò Vấp, da ếch chiên giòn rụm béo thơm, lẩu măng cay chua ngọt vừa miệng cực kỳ đông khách.",
-    "images": [],
+    "images": [
+      "images/lau_ech_sau_hieu.jpg"
+    ],
     "source": "Cộng đồng ẩm thực Gò Vấp",
     "tags": [
       "Gò Vấp",
@@ -136,7 +142,7 @@
     ],
     "date_added": "2026-11-08",
     "city": "Hồ Chí Minh",
-    "source_url": ""
+    "source_url": "https://toplist.vn/top-list/quan-lau-ech-ngon-re-duoc-yeu-thich-nhat-tai-tp-hcm-46512.htm"
   },
   {
     "id": "chan-ga-sot-thai-co-minh",
@@ -151,7 +157,9 @@
     ],
     "price_range": "60.000 - 100.000 VNĐ",
     "highlights": "Xe chân gà nổi tiếng cõi mạng; sốt Thái đặc sệt thơm cay tê, chân gà rút xương giòn sần sật thấm đều gia vị (bán từ 15h đến hết).",
-    "images": [],
+    "images": [
+      "images/chan_ga_co_minh.jpg"
+    ],
     "source": "Threads / TikTok viral",
     "tags": [
       "Gò Vấp",
@@ -161,7 +169,7 @@
     ],
     "date_added": "2026-11-08",
     "city": "Hồ Chí Minh",
-    "source_url": ""
+    "source_url": "https://www.lemon8-app.com/theotheoriviu/7239231897677595137"
   },
   {
     "id": "bun-rieu-336-nguyen-van-luong",
@@ -177,7 +185,9 @@
     ],
     "price_range": "20.000 - 35.000 VNĐ",
     "highlights": "Tô thập cẩm 35k đầy ụ thịt thà, riêu cua thơm lừng, ốc giòn, nước lèo ngọt thanh đậm đà, bán từ 6h sáng đến 14h trưa.",
-    "images": [],
+    "images": [
+      "images/bun_rieu_336.jpg"
+    ],
     "source": "Review ẩm thực",
     "tags": [
       "Gò Vấp",
@@ -187,7 +197,7 @@
     ],
     "date_added": "2026-11-08",
     "city": "Hồ Chí Minh",
-    "source_url": ""
+    "source_url": "https://www.momo.vn/page/9814046"
   },
   {
     "id": "bun-ca-ro-dong-hoang-cuc",
@@ -203,7 +213,9 @@
     ],
     "price_range": "35.000 - 55.000 VNĐ",
     "highlights": "Thịt cá rô đồng lọc xương chiên vàng giòn thơm nức, nước dùng cá ngọt thanh tự nhiên ăn kèm rau cần, cải mầm và măng chua ngâm giòn.",
-    "images": [],
+    "images": [
+      "images/bun_ca_ro_hoang_cuc.jpg"
+    ],
     "source": "Foody / Người dân địa phương",
     "tags": [
       "Gò Vấp",
@@ -213,7 +225,7 @@
     ],
     "date_added": "2026-11-08",
     "city": "Hồ Chí Minh",
-    "source_url": ""
+    "source_url": "https://vntopfood.com/bun-ca-go-vap/"
   },
   {
     "id": "lau-de-sos-lang-hoa",
@@ -230,7 +242,9 @@
     ],
     "price_range": "150.000 - 300.000 VNĐ",
     "highlights": "Hơn 20 năm tuổi trứ danh làng hoa Gò Vấp, thịt dê tươi không hôi, chao chấm béo cay mặn mà, nước lẩu thảo mộc thơm bổ dưỡng.",
-    "images": [],
+    "images": [
+      "images/lau_de_sos_lang_hoa.jpg"
+    ],
     "source": "Review ẩm thực Sài Gòn",
     "tags": [
       "Gò Vấp",
@@ -240,7 +254,7 @@
     ],
     "date_added": "2026-11-08",
     "city": "Hồ Chí Minh",
-    "source_url": ""
+    "source_url": "https://www.bachhoaxanh.com/kinh-nghiem-hay/5-quan-lau-sieu-ngon-ban-lau-nam-ma-dan-go-vap-thuong-ghe-1314109"
   },
   {
     "id": "pha-lau-bo-cay-tram",
@@ -256,7 +270,9 @@
     ],
     "price_range": "25.000 - 40.000 VNĐ",
     "highlights": "Lòng bò làm sạch kĩ không mùi, nước cốt dừa béo ngọt vừa vặn, nước mắm me chua cay chấm siêu dính, bánh mì luôn giòn rụm.",
-    "images": [],
+    "images": [
+      "images/pha_lau_cay_tram.jpg"
+    ],
     "source": "Food review",
     "tags": [
       "Gò Vấp",
@@ -265,7 +281,7 @@
     ],
     "date_added": "2026-11-08",
     "city": "Hồ Chí Minh",
-    "source_url": ""
+    "source_url": "https://trangvangamthuc.com/pha-lau-bo-cay-tram/"
   },
   {
     "id": "ngo-thai-am-thuc-thai",
@@ -282,7 +298,9 @@
     ],
     "price_range": "50.000 - 120.000 VNĐ",
     "highlights": "Quán món Thái núp hẻm ấm cúng giá cực kỳ 'hạt dẻ' so với nhà hàng; món sườn cây ớt hiểm chuẩn vị cay nồng, nên đặt bàn trước sau 18h.",
-    "images": [],
+    "images": [
+      "images/ngo_thai_go_vap.jpg"
+    ],
     "source": "Threads / Food review",
     "tags": [
       "Gò Vấp",
@@ -292,6 +310,6 @@
     ],
     "date_added": "2026-11-08",
     "city": "Hồ Chí Minh",
-    "source_url": ""
+    "source_url": "https://angiday.me/do-an-kieu-thai-ngo-thai"
   }
 ]
