@@ -1,6 +1,6 @@
 # Bản Đồ Ẩm Thực (Food Map)
 
-Kho lưu trữ các quán ăn, món ngon, review thực tế thu thập hàng ngày từ Threads, MXH và cộng đồng ẩm thực.
+Kho lưu trữ các quán ăn, món ngon, review thực tế thu thập hàng ngày từ Threads, MXH và cộng đồng ẩm thực (chọn lọc đánh giá cao, nhiều bình luận thật).
 
 * **Dữ liệu chuẩn JSON (Web/API ready):** [`food_places.json`](./food_places.json)
 * **Hình ảnh thực tế:** [`images/`](./images/)
@@ -173,5 +173,53 @@ Kho lưu trữ các quán ăn, món ngon, review thực tế thu thập hàng ng
 * **Đánh giá & Điểm nổi bật:** Chuỗi bò né bình dân giá sinh viên quen thuộc; chảo gang sôi bùng khói thơm phức, phục vụ nhanh, ăn sáng hay ăn tối đều tiện.
 * **Nguồn review & Link bài viết:** [Địa điểm ăn uống Gò Vấp](https://www.foody.vn/ho-chi-minh/3-ngon-bo-ne-le-van-tho)
 * **Tags:** `#Gò Vấp`, `#Bò né`, `#3 Ngon`, `#Lê Văn Thọ`, `#Giá rẻ`
+
+---
+
+## 16. Bánh Mì Chảo Cô 3 Hậu (Gò Vấp)
+![Bánh Mì Chảo Cô 3 Hậu](images/banh_mi_chao_co_3_hau.jpg)
+* **Địa chỉ:** 36 Đường Số 18, Phường 8, Quận Gò Vấp, TP.HCM
+* **Hotline:** 093 782 54 44
+* **Món chính / Must-try:** Bánh mì chảo thập cẩm (pate, xíu mại, ốp la, xúc xích, phô mai), Bánh mì bò xào, Sữa đậu nành
+* **Giá cả:** 25.000 - 45.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Quán bánh mì chảo đông nức tiếng Gò Vấp với hàng nghìn lượt đánh giá thật; chảo sốt cà chua thịt băm sánh sệt đậm đà, pate nhà làm béo ngậy không ngấy, bánh mì lúc nào cũng nóng giòn rụm.
+* **Nguồn review & Link bài viết:** [Review cộng đồng Gò Vấp / Foody](https://www.foody.vn/ho-chi-minh/banh-mi-chao-co-3-hau)
+* **Tags:** `#Gò Vấp`, `#Bánh mì chảo`, `#Cô 3 Hậu`, `#Đường số 18`, `#Đông khách`, `#Ăn sáng`
+
+---
+
+## 17. Nhà Hàng Ẩm Thực Những Người Bạn (Gò Vấp)
+![Nhà Hàng Ẩm Thực Những Người Bạn](images/nha_hang_nhung_nguoi_ban.jpg)
+* **Địa chỉ:** 14 Phan Văn Trị, Phường 7, Quận Gò Vấp, TP.HCM
+* **Hotline:** 028 3588 5888
+* **Món chính / Must-try:** Heo tộc quay lu mẹt, Cá lăng nướng muối ớt / nấu măng chua, Gà ta hấp mắm nhĩ, Lẩu riêu cua bắp bò
+* **Giá cả:** 150.000 - 350.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Nhà hàng sân vườn quy mô lớn và uy tín bậc nhất Gò Vấp (>4.000 đánh giá Google Maps ~4.5 sao); không gian rợp cây xanh thoáng đãng, hải sản và đặc sản đồng quê tươi rói, chế biến ngon miệng và ổn định lâu năm.
+* **Nguồn review & Link bài viết:** [Google Maps / Đánh giá ẩm thực Sài Gòn](https://www.foody.vn/ho-chi-minh/nhung-nguoi-ban-am-thuc-san-vuon)
+* **Tags:** `#Gò Vấp`, `#Ẩm thực sân vườn`, `#Gia đình`, `#Họp mặt`, `#Phan Văn Trị`, `#Hải sản`
+
+---
+
+## 18. Gà Nướng Cái Bang (Quang Trung) (Gò Vấp)
+![Gà Nướng Cái Bang (Quang Trung)](images/ga_nuong_cai_bang.jpg)
+* **Địa chỉ:** 181 Quang Trung, Phường 10, Quận Gò Vấp, TP.HCM
+* **Hotline:** 090 988 51 68
+* **Món chính / Must-try:** Gà nướng muối ớt xanh, Gà nướng ngũ vị, Xôi chiên phồng giòn, Chân gà quái thú
+* **Giá cả:** 120.000 - 220.000 VNĐ / con
+* **Đánh giá & Điểm nổi bật:** Thương hiệu gà nướng phong cách cổ trang cực kỳ đông khách; thịt gà ta thả vườn dai ngọt nướng vàng óng da giòn, sốt ướp thấm sâu vào từng thớ thịt, chấm muối ớt xanh chua cay bắt vị.
+* **Nguồn review & Link bài viết:** [Review ẩm thực thực tế](https://www.foody.vn/ho-chi-minh/ga-nuong-cai-bang-quang-trung)
+* **Tags:** `#Gò Vấp`, `#Gà nướng`, `#Cái Bang`, `#Quang Trung`, `#Tụ tập bạn bè`
+
+---
+
+## 19. Bánh Cuốn Tây Sơn Cô 2 (Đặc Sản Bình Định) (Gò Vấp)
+![Bánh Cuốn Tây Sơn Cô 2 (Đặc Sản Bình Định)](images/banh_cuon_tay_son_co_2.jpg)
+* **Địa chỉ:** 346 Nguyễn Thái Sơn, Phường 5, Quận Gò Vấp, TP.HCM
+* **Hotline:** 090 912 34 56
+* **Món chính / Must-try:** Bánh cuốn Tây Sơn cỡ đại (chả ram giòn, nem chua, trứng, thịt lụi), Bánh bèo chén Bình Định, Chả ram tôm đất
+* **Giá cả:** 15.000 - 35.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Quán vỉa hè lúc nào cũng đông nghẹt khách; bánh cuốn to đùng gói chả ram giòn rụm bên trong, chấm cùng nước sốt đậu phộng thịt xay béo bùi chuẩn vị xứ võ Tây Sơn.
+* **Nguồn review & Link bài viết:** [Review ẩm thực đường phố / MXH](https://www.foody.vn/ho-chi-minh/banh-cuon-tay-son-co-2)
+* **Tags:** `#Gò Vấp`, `#Bánh cuốn Tây Sơn`, `#Nguyễn Thái Sơn`, `#Đặc sản Bình Định`, `#Bình dân`
 
 ---

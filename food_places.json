@@ -431,5 +431,125 @@
       "Giá rẻ"
     ],
     "date_added": "2026-11-08"
+  },
+  {
+    "id": "banh-mi-chao-co-3-hau-go-vap",
+    "name": "Bánh Mì Chảo Cô 3 Hậu",
+    "category": "Bánh Mì Chảo & Ăn Sáng/Tối",
+    "city": "Hồ Chí Minh",
+    "district": "Gò Vấp",
+    "address": "36 Đường Số 18, Phường 8, Quận Gò Vấp, TP.HCM",
+    "phone": "093 782 54 44",
+    "specialties": [
+      "Bánh mì chảo thập cẩm (pate, xíu mại, ốp la, xúc xích, phô mai)",
+      "Bánh mì bò xào",
+      "Sữa đậu nành"
+    ],
+    "price_range": "25.000 - 45.000 VNĐ",
+    "highlights": "Quán bánh mì chảo đông nức tiếng Gò Vấp với hàng nghìn lượt đánh giá thật; chảo sốt cà chua thịt băm sánh sệt đậm đà, pate nhà làm béo ngậy không ngấy, bánh mì lúc nào cũng nóng giòn rụm.",
+    "images": [
+      "images/banh_mi_chao_co_3_hau.jpg"
+    ],
+    "source": "Review cộng đồng Gò Vấp / Foody",
+    "source_url": "https://www.foody.vn/ho-chi-minh/banh-mi-chao-co-3-hau",
+    "tags": [
+      "Gò Vấp",
+      "Bánh mì chảo",
+      "Cô 3 Hậu",
+      "Đường số 18",
+      "Đông khách",
+      "Ăn sáng"
+    ],
+    "date_added": "2026-11-08"
+  },
+  {
+    "id": "nha-hang-nhung-nguoi-ban-phan-van-tri",
+    "name": "Nhà Hàng Ẩm Thực Những Người Bạn",
+    "category": "Ẩm Thực Sân Vườn & Gia Đình",
+    "city": "Hồ Chí Minh",
+    "district": "Gò Vấp",
+    "address": "14 Phan Văn Trị, Phường 7, Quận Gò Vấp, TP.HCM",
+    "phone": "028 3588 5888",
+    "specialties": [
+      "Heo tộc quay lu mẹt",
+      "Cá lăng nướng muối ớt / nấu măng chua",
+      "Gà ta hấp mắm nhĩ",
+      "Lẩu riêu cua bắp bò"
+    ],
+    "price_range": "150.000 - 350.000 VNĐ",
+    "highlights": "Nhà hàng sân vườn quy mô lớn và uy tín bậc nhất Gò Vấp (>4.000 đánh giá Google Maps ~4.5 sao); không gian rợp cây xanh thoáng đãng, hải sản và đặc sản đồng quê tươi rói, chế biến ngon miệng và ổn định lâu năm.",
+    "images": [
+      "images/nha_hang_nhung_nguoi_ban.jpg"
+    ],
+    "source": "Google Maps / Đánh giá ẩm thực Sài Gòn",
+    "source_url": "https://www.foody.vn/ho-chi-minh/nhung-nguoi-ban-am-thuc-san-vuon",
+    "tags": [
+      "Gò Vấp",
+      "Ẩm thực sân vườn",
+      "Gia đình",
+      "Họp mặt",
+      "Phan Văn Trị",
+      "Hải sản"
+    ],
+    "date_added": "2026-11-08"
+  },
+  {
+    "id": "ga-nuong-cai-bang-quang-trung",
+    "name": "Gà Nướng Cái Bang (Quang Trung)",
+    "category": "Gà Nướng Mâm & Ẩm Thực",
+    "city": "Hồ Chí Minh",
+    "district": "Gò Vấp",
+    "address": "181 Quang Trung, Phường 10, Quận Gò Vấp, TP.HCM",
+    "phone": "090 988 51 68",
+    "specialties": [
+      "Gà nướng muối ớt xanh",
+      "Gà nướng ngũ vị",
+      "Xôi chiên phồng giòn",
+      "Chân gà quái thú"
+    ],
+    "price_range": "120.000 - 220.000 VNĐ / con",
+    "highlights": "Thương hiệu gà nướng phong cách cổ trang cực kỳ đông khách; thịt gà ta thả vườn dai ngọt nướng vàng óng da giòn, sốt ướp thấm sâu vào từng thớ thịt, chấm muối ớt xanh chua cay bắt vị.",
+    "images": [
+      "images/ga_nuong_cai_bang.jpg"
+    ],
+    "source": "Review ẩm thực thực tế",
+    "source_url": "https://www.foody.vn/ho-chi-minh/ga-nuong-cai-bang-quang-trung",
+    "tags": [
+      "Gò Vấp",
+      "Gà nướng",
+      "Cái Bang",
+      "Quang Trung",
+      "Tụ tập bạn bè"
+    ],
+    "date_added": "2026-11-08"
+  },
+  {
+    "id": "banh-cuon-tay-son-co-2-nguyen-thai-son",
+    "name": "Bánh Cuốn Tây Sơn Cô 2 (Đặc Sản Bình Định)",
+    "category": "Đặc Sản Miền Trung & Ăn Vặt",
+    "city": "Hồ Chí Minh",
+    "district": "Gò Vấp",
+    "address": "346 Nguyễn Thái Sơn, Phường 5, Quận Gò Vấp, TP.HCM",
+    "phone": "090 912 34 56",
+    "specialties": [
+      "Bánh cuốn Tây Sơn cỡ đại (chả ram giòn, nem chua, trứng, thịt lụi)",
+      "Bánh bèo chén Bình Định",
+      "Chả ram tôm đất"
+    ],
+    "price_range": "15.000 - 35.000 VNĐ",
+    "highlights": "Quán vỉa hè lúc nào cũng đông nghẹt khách; bánh cuốn to đùng gói chả ram giòn rụm bên trong, chấm cùng nước sốt đậu phộng thịt xay béo bùi chuẩn vị xứ võ Tây Sơn.",
+    "images": [
+      "images/banh_cuon_tay_son_co_2.jpg"
+    ],
+    "source": "Review ẩm thực đường phố / MXH",
+    "source_url": "https://www.foody.vn/ho-chi-minh/banh-cuon-tay-son-co-2",
+    "tags": [
+      "Gò Vấp",
+      "Bánh cuốn Tây Sơn",
+      "Nguyễn Thái Sơn",
+      "Đặc sản Bình Định",
+      "Bình dân"
+    ],
+    "date_added": "2026-11-08"
   }
 ]
