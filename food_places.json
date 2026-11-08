@@ -6,13 +6,29 @@
     "district": "Gò Vấp",
     "address": "64A Đường số 4, Phường 7, Quận Gò Vấp, TP.HCM",
     "phone": "0362955414",
-    "specialties": ["Xôi Vịt", "Mì Quảng Vịt", "Mì Quảng Heo", "Bánh bột lọc Phan Thiết"],
+    "specialties": [
+      "Xôi Vịt",
+      "Mì Quảng Vịt",
+      "Mì Quảng Heo",
+      "Bánh bột lọc Phan Thiết"
+    ],
     "price_range": "30.000 VNĐ",
     "highlights": "Quán bình dân đặc sản Phan Thiết - Bình Thuận, xôi dẻo thịt vịt mềm, mì quảng vịt/heo chuẩn vị, bánh bột lọc dai ngon niêm yết đồng giá 30k.",
-    "images": ["images/co7_xoi_vit_phan_thiet.jpg"],
+    "images": [
+      "images/co7_xoi_vit_phan_thiet.jpg"
+    ],
     "source": "Threads / Ảnh gửi",
-    "tags": ["Gò Vấp", "Ăn sáng", "Ăn trưa", "Xôi vịt", "Mì Quảng", "Bình dân", "Phan Thiết"],
-    "date_added": "2026-11-08"
+    "tags": [
+      "Gò Vấp",
+      "Ăn sáng",
+      "Ăn trưa",
+      "Xôi vịt",
+      "Mì Quảng",
+      "Bình dân",
+      "Phan Thiết"
+    ],
+    "date_added": "2026-11-08",
+    "city": "Hồ Chí Minh"
   },
   {
     "id": "buncha-banhcuon-tuiminhbanbuncha-29",
@@ -21,13 +37,25 @@
     "district": "Quận 12",
     "address": "568 Nguyễn Văn Quá, P. Đông Hưng Thuận, Quận 12, TP.HCM (giáp Gò Vấp)",
     "phone": "0889132679",
-    "specialties": ["Bún chả Hà Nội", "Bánh cuốn thịt nướng"],
+    "specialties": [
+      "Bún chả Hà Nội",
+      "Bánh cuốn thịt nướng"
+    ],
     "price_range": "30.000 - 35.000 VNĐ",
     "highlights": "Bánh cuốn thịt nướng thơm nức 30k, bún chả Hà Nội nướng than chả viên thơm mềm nước mắm pha chua ngọt thanh 35k.",
-    "images": ["images/tuiminhbanbuncha_29.jpg"],
+    "images": [
+      "images/tuiminhbanbuncha_29.jpg"
+    ],
     "source": "Threads (@tuiminhbanbuncha.29)",
-    "tags": ["Quận 12", "Gần Gò Vấp", "Bún chả", "Bánh cuốn", "Bình dân"],
-    "date_added": "2026-11-08"
+    "tags": [
+      "Quận 12",
+      "Gần Gò Vấp",
+      "Bún chả",
+      "Bánh cuốn",
+      "Bình dân"
+    ],
+    "date_added": "2026-11-08",
+    "city": "Hồ Chí Minh"
   },
   {
     "id": "com-tam-dem-6-teo",
@@ -36,13 +64,23 @@
     "district": "Gò Vấp",
     "address": "400 Phan Văn Trị, Phường 7, Quận Gò Vấp, TP.HCM",
     "phone": null,
-    "specialties": ["Cơm tấm sườn nướng", "Sườn bì chả trứng ốp la", "Lạp xưởng"],
+    "specialties": [
+      "Cơm tấm sườn nướng",
+      "Sườn bì chả trứng ốp la",
+      "Lạp xưởng"
+    ],
     "price_range": "35.000 - 55.000 VNĐ",
     "highlights": "Quán cơm tấm đêm siêu đông khách, sườn ướp đậm đà nướng than thơm lừng không bị khô, nước mắm kẹo bắt miệng, phục vụ nhanh.",
     "images": [],
     "source": "Threads / MXH Food Review",
-    "tags": ["Gò Vấp", "Cơm tấm", "Ăn đêm", "Phan Văn Trị"],
-    "date_added": "2026-11-08"
+    "tags": [
+      "Gò Vấp",
+      "Cơm tấm",
+      "Ăn đêm",
+      "Phan Văn Trị"
+    ],
+    "date_added": "2026-11-08",
+    "city": "Hồ Chí Minh"
   },
   {
     "id": "oc-lac-co-mai",
@@ -51,13 +89,23 @@
     "district": "Gò Vấp",
     "address": "Hẻm 36/14 Thoại Ngọc Hầu / Núp hẻm Quang Trung, Quận Gò Vấp, TP.HCM",
     "phone": null,
-    "specialties": ["Ốc lắc sốt phô mai", "Ốc hương sốt trứng muối", "Càng ghẹ rang muối"],
+    "specialties": [
+      "Ốc lắc sốt phô mai",
+      "Ốc hương sốt trứng muối",
+      "Càng ghẹ rang muối"
+    ],
     "price_range": "40.000 - 90.000 VNĐ",
     "highlights": "Quán ốc núp hẻm có view sân thượng cực chill, hải sản tươi ngon đậm đà, nhân viên nhiệt tình, đông khách vào chiều tối.",
     "images": [],
     "source": "Threads / TopTop",
-    "tags": ["Gò Vấp", "Ốc", "Sân thượng", "Tụ tập bạn bè"],
-    "date_added": "2026-11-08"
+    "tags": [
+      "Gò Vấp",
+      "Ốc",
+      "Sân thượng",
+      "Tụ tập bạn bè"
+    ],
+    "date_added": "2026-11-08",
+    "city": "Hồ Chí Minh"
   },
   {
     "id": "lau-ech-sau-hieu",
@@ -66,13 +114,24 @@
     "district": "Gò Vấp",
     "address": "429/9 Quang Trung, Phường 10, Quận Gò Vấp, TP.HCM",
     "phone": null,
-    "specialties": ["Lẩu ếch măng cay", "Da ếch chiên giòn", "Ếch xào lăn"],
+    "specialties": [
+      "Lẩu ếch măng cay",
+      "Da ếch chiên giòn",
+      "Ếch xào lăn"
+    ],
     "price_range": "100.000 - 200.000 VNĐ",
     "highlights": "Thương hiệu lẩu ếch trứ danh Gò Vấp, da ếch chiên giòn rụm béo thơm, lẩu măng cay chua ngọt vừa miệng cực kỳ đông khách.",
     "images": [],
     "source": "Cộng đồng ẩm thực Gò Vấp",
-    "tags": ["Gò Vấp", "Lẩu ếch", "Quang Trung", "Gia đình", "Hội nhóm"],
-    "date_added": "2026-11-08"
+    "tags": [
+      "Gò Vấp",
+      "Lẩu ếch",
+      "Quang Trung",
+      "Gia đình",
+      "Hội nhóm"
+    ],
+    "date_added": "2026-11-08",
+    "city": "Hồ Chí Minh"
   },
   {
     "id": "chan-ga-sot-thai-co-minh",
@@ -81,13 +140,22 @@
     "district": "Gò Vấp",
     "address": "305 Nguyễn Văn Khối (Cây Trâm cũ), Phường 9, Quận Gò Vấp, TP.HCM",
     "phone": null,
-    "specialties": ["Chân gà rút xương sốt Thái", "Tai heo sốt Thái"],
+    "specialties": [
+      "Chân gà rút xương sốt Thái",
+      "Tai heo sốt Thái"
+    ],
     "price_range": "60.000 - 100.000 VNĐ",
     "highlights": "Xe chân gà nổi tiếng cõi mạng; sốt Thái đặc sệt thơm cay tê, chân gà rút xương giòn sần sật thấm đều gia vị (bán từ 15h đến hết).",
     "images": [],
     "source": "Threads / TikTok viral",
-    "tags": ["Gò Vấp", "Ăn vặt", "Chân gà sốt Thái", "Nguyễn Văn Khối"],
-    "date_added": "2026-11-08"
+    "tags": [
+      "Gò Vấp",
+      "Ăn vặt",
+      "Chân gà sốt Thái",
+      "Nguyễn Văn Khối"
+    ],
+    "date_added": "2026-11-08",
+    "city": "Hồ Chí Minh"
   },
   {
     "id": "bun-rieu-336-nguyen-van-luong",
@@ -96,13 +164,23 @@
     "district": "Gò Vấp",
     "address": "336 Nguyễn Văn Lượng, Phường 16, Quận Gò Vấp, TP.HCM (đối diện Lotte Mart)",
     "phone": null,
-    "specialties": ["Bún riêu cua ốc thập cẩm", "Chả lụa", "Chả tiêu"],
+    "specialties": [
+      "Bún riêu cua ốc thập cẩm",
+      "Chả lụa",
+      "Chả tiêu"
+    ],
     "price_range": "20.000 - 35.000 VNĐ",
     "highlights": "Tô thập cẩm 35k đầy ụ thịt thà, riêu cua thơm lừng, ốc giòn, nước lèo ngọt thanh đậm đà, bán từ 6h sáng đến 14h trưa.",
     "images": [],
     "source": "Review ẩm thực",
-    "tags": ["Gò Vấp", "Bún riêu", "Ăn sáng", "Giá rẻ"],
-    "date_added": "2026-11-08"
+    "tags": [
+      "Gò Vấp",
+      "Bún riêu",
+      "Ăn sáng",
+      "Giá rẻ"
+    ],
+    "date_added": "2026-11-08",
+    "city": "Hồ Chí Minh"
   },
   {
     "id": "bun-ca-ro-dong-hoang-cuc",
@@ -111,13 +189,23 @@
     "district": "Gò Vấp",
     "address": "236 Nguyễn Oanh, Phường 17, Quận Gò Vấp, TP.HCM",
     "phone": null,
-    "specialties": ["Bún cá rô đồng chiên giòn", "Bún cá rô hấp", "Măng cay"],
+    "specialties": [
+      "Bún cá rô đồng chiên giòn",
+      "Bún cá rô hấp",
+      "Măng cay"
+    ],
     "price_range": "35.000 - 55.000 VNĐ",
     "highlights": "Thịt cá rô đồng lọc xương chiên vàng giòn thơm nức, nước dùng cá ngọt thanh tự nhiên ăn kèm rau cần, cải mầm và măng chua ngâm giòn.",
     "images": [],
     "source": "Foody / Người dân địa phương",
-    "tags": ["Gò Vấp", "Bún cá rô", "Nguyễn Oanh", "Thanh đạm"],
-    "date_added": "2026-11-08"
+    "tags": [
+      "Gò Vấp",
+      "Bún cá rô",
+      "Nguyễn Oanh",
+      "Thanh đạm"
+    ],
+    "date_added": "2026-11-08",
+    "city": "Hồ Chí Minh"
   },
   {
     "id": "lau-de-sos-lang-hoa",
@@ -126,13 +214,24 @@
     "district": "Gò Vấp",
     "address": "108/6 Nguyễn Văn Khối, Phường 9, Quận Gò Vấp, TP.HCM",
     "phone": null,
-    "specialties": ["Lẩu dê nhúng", "Dê nướng mọi", "Vú dê nướng", "Dê hấp tía tô"],
+    "specialties": [
+      "Lẩu dê nhúng",
+      "Dê nướng mọi",
+      "Vú dê nướng",
+      "Dê hấp tía tô"
+    ],
     "price_range": "150.000 - 300.000 VNĐ",
     "highlights": "Hơn 20 năm tuổi trứ danh làng hoa Gò Vấp, thịt dê tươi không hôi, chao chấm béo cay mặn mà, nước lẩu thảo mộc thơm bổ dưỡng.",
     "images": [],
     "source": "Review ẩm thực Sài Gòn",
-    "tags": ["Gò Vấp", "Lẩu dê", "Lâu đời", "Hội họp"],
-    "date_added": "2026-11-08"
+    "tags": [
+      "Gò Vấp",
+      "Lẩu dê",
+      "Lâu đời",
+      "Hội họp"
+    ],
+    "date_added": "2026-11-08",
+    "city": "Hồ Chí Minh"
   },
   {
     "id": "pha-lau-bo-cay-tram",
@@ -141,13 +240,22 @@
     "district": "Gò Vấp",
     "address": "208 Cây Trâm (Nguyễn Văn Khối), Phường 8, Quận Gò Vấp, TP.HCM",
     "phone": null,
-    "specialties": ["Phá lấu chén", "Mì gói phá lấu", "Bánh mì phá lấu"],
+    "specialties": [
+      "Phá lấu chén",
+      "Mì gói phá lấu",
+      "Bánh mì phá lấu"
+    ],
     "price_range": "25.000 - 40.000 VNĐ",
     "highlights": "Lòng bò làm sạch kĩ không mùi, nước cốt dừa béo ngọt vừa vặn, nước mắm me chua cay chấm siêu dính, bánh mì luôn giòn rụm.",
     "images": [],
     "source": "Food review",
-    "tags": ["Gò Vấp", "Phá lấu bò", "Ăn vặt xế chiều"],
-    "date_added": "2026-11-08"
+    "tags": [
+      "Gò Vấp",
+      "Phá lấu bò",
+      "Ăn vặt xế chiều"
+    ],
+    "date_added": "2026-11-08",
+    "city": "Hồ Chí Minh"
   },
   {
     "id": "ngo-thai-am-thuc-thai",
@@ -156,12 +264,23 @@
     "district": "Gò Vấp",
     "address": "945/64B Lê Đức Thọ, Phường 16, Quận Gò Vấp, TP.HCM",
     "phone": null,
-    "specialties": ["Sườn cây tắm ớt hiểm", "Cà ri hải sản xanh", "Gỏi xoài cá trê", "Xôi xoài"],
+    "specialties": [
+      "Sườn cây tắm ớt hiểm",
+      "Cà ri hải sản xanh",
+      "Gỏi xoài cá trê",
+      "Xôi xoài"
+    ],
     "price_range": "50.000 - 120.000 VNĐ",
     "highlights": "Quán món Thái núp hẻm ấm cúng giá cực kỳ 'hạt dẻ' so với nhà hàng; món sườn cây ớt hiểm chuẩn vị cay nồng, nên đặt bàn trước sau 18h.",
     "images": [],
     "source": "Threads / Food review",
-    "tags": ["Gò Vấp", "Món Thái", "Sườn cây", "Núp hẻm"],
-    "date_added": "2026-11-08"
+    "tags": [
+      "Gò Vấp",
+      "Món Thái",
+      "Sườn cây",
+      "Núp hẻm"
+    ],
+    "date_added": "2026-11-08",
+    "city": "Hồ Chí Minh"
   }
 ]
