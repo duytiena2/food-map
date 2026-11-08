@@ -1,6 +1,6 @@
 # Bản Đồ Ẩm Thực (Food Map)
 
-Kho lưu trữ các quán ăn, món ngon, review thực tế thu thập hàng ngày từ Threads, MXH và cộng đồng ẩm thực (chọn lọc đánh giá cao, nhiều bình luận thật).
+Kho lưu trữ các quán ăn, món ngon, review thực tế thu thập hàng ngày từ Threads, MXH và cộng đồng ẩm thực.
 
 * **Dữ liệu chuẩn JSON (Web/API ready):** [`food_places.json`](./food_places.json)
 * **Hình ảnh thực tế:** [`images/`](./images/)
