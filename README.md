@@ -232,7 +232,7 @@ Kho lưu trữ các quán ăn, món ngon, review thực tế thu thập hàng ng
 * **Giá cả:** 30.000 - 65.000 VNĐ
 * **Đánh giá & Điểm nổi bật:** Góc ẩm thực mang trọn không khí và phong vị Đà Lạt về Gò Vấp. Bánh căn đổ khuôn đất giòn rụm vỏ ngoài mềm xốp bên trong ăn cùng chén xíu mại bốc khói béo bùi, nước mắm nêm thanh dịu hoặc mắm ngọt tự chọn cực kỳ cuốn.
 * **Nguồn review & Link bài viết:** [Threads & Tripi Review (Top Bánh Căn Sài Gòn)](https://tripi.vn/blog/vi/xep-hang/14-dia-chi-banh-can-dam-vi-niu-chan-thuc-khach-tai-sai-gon-tripi)
-* **Tags:** , , , , , , 
+* **Tags:** `#Gò Vấp`, `#Bánh căn`, `#Đà Lạt`, `#Bánh tráng nướng`, `#Xíu mại`, `#Ăn vặt`, `#Lê Văn Thọ`
 
 ---
 
@@ -244,6 +244,6 @@ Kho lưu trữ các quán ăn, món ngon, review thực tế thu thập hàng ng
 * **Giá cả:** 35.000 - 55.000 VNĐ
 * **Đánh giá & Điểm nổi bật:** Tô bún Thái chua cay nóng hổi đậm đà hương sả lá chanh với nước dùng ngọt thanh từ xương tôm. Topping hào phóng ngập tràn tôm sú tươi ngọt, mực giòn sần sật và thịt bò mềm, cực kỳ bắt vị trong những ngày mưa mát mẻ.
 * **Nguồn review & Link bài viết:** [Threads, Lemon8 & Tripi/LUG Review](https://tripi.vn/blog/vi/am-thuc/9-diem-den-bun-hai-san-ngon-binh-dan-khong-the-bo-qua-tai-sai-gon-tripi)
-* **Tags:** , , , , , 
+* **Tags:** `#Gò Vấp`, `#Bún Thái`, `#Bún cay`, `#Hải sản`, `#Nguyễn Văn Khối`, `#Bình dân`
 
 ---
