@@ -223,3 +223,27 @@ Kho lưu trữ các quán ăn, món ngon, review thực tế thu thập hàng ng
 * **Tags:** `#Gò Vấp`, `#Bánh cuốn Tây Sơn`, `#Nguyễn Thái Sơn`, `#Đặc sản Bình Định`, `#Bình dân`
 
 ---
+
+## 20. Dalatown - Bánh Căn & Bánh Tráng Nướng Đà Lạt (Gò Vấp)
+![Dalatown - Bánh Căn](images/dalatown_banh_can.png)
+* **Địa chỉ:** 448 Lê Văn Thọ, Phường 16, Quận Gò Vấp, TP.HCM
+* **Hotline:** 0985 796 948
+* **Món chính / Must-try:** Bánh căn trứng cút lòng đào xíu mại, Bánh căn trứng gà, Bánh tráng nướng Đà Lạt giòn rụm, Nem nướng & Trà atiso
+* **Giá cả:** 30.000 - 65.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Góc ẩm thực mang trọn không khí và phong vị Đà Lạt về Gò Vấp. Bánh căn đổ khuôn đất giòn rụm vỏ ngoài mềm xốp bên trong ăn cùng chén xíu mại bốc khói béo bùi, nước mắm nêm thanh dịu hoặc mắm ngọt tự chọn cực kỳ cuốn.
+* **Nguồn review & Link bài viết:** [Threads & Tripi Review (Top Bánh Căn Sài Gòn)](https://tripi.vn/blog/vi/xep-hang/14-dia-chi-banh-can-dam-vi-niu-chan-thuc-khach-tai-sai-gon-tripi)
+* **Tags:** , , , , , , 
+
+---
+
+## 21. Bún Cay Thái 2 Thuận - Nguyễn Văn Khối (Gò Vấp)
+![Bún Cay Thái 2 Thuận](images/bun_cay_hai_thuan.png)
+* **Địa chỉ:** 320 Nguyễn Văn Khối (Cây Trâm cũ), Phường 9, Quận Gò Vấp, TP.HCM
+* **Hotline:** 0929 233 114
+* **Món chính / Must-try:** Bún Thái chua cay hải sản thập cẩm, Bún hải sản mực giòn tôm sú bò Mỹ, Trà tắc giải nhiệt khổng lồ
+* **Giá cả:** 35.000 - 55.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Tô bún Thái chua cay nóng hổi đậm đà hương sả lá chanh với nước dùng ngọt thanh từ xương tôm. Topping hào phóng ngập tràn tôm sú tươi ngọt, mực giòn sần sật và thịt bò mềm, cực kỳ bắt vị trong những ngày mưa mát mẻ.
+* **Nguồn review & Link bài viết:** [Threads, Lemon8 & Tripi/LUG Review](https://tripi.vn/blog/vi/am-thuc/9-diem-den-bun-hai-san-ngon-binh-dan-khong-the-bo-qua-tai-sai-gon-tripi)
+* **Tags:** , , , , , 
+
+---
