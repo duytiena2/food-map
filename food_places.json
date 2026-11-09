@@ -551,5 +551,64 @@
       "Bình dân"
     ],
     "date_added": "2026-11-08"
+  },
+  {
+    "id": "dalatown-banh-can-banh-trang-nuong-le-van-tho",
+    "name": "Dalatown - Bánh Căn & Bánh Tráng Nướng Đà Lạt",
+    "category": "Đặc sản & Món nước",
+    "city": "Hồ Chí Minh",
+    "district": "Gò Vấp",
+    "address": "448 Lê Văn Thọ, Phường 16, Gò Vấp",
+    "phone": "0985 796 948",
+    "specialties": [
+      "Bánh căn trứng cút lòng đào xíu mại",
+      "Bánh căn trứng gà chén xíu mại bốc khói",
+      "Bánh tráng nướng Đà Lạt giòn rụm",
+      "Nem nướng Đà Lạt & Trà atiso"
+    ],
+    "price_range": "30.000 - 65.000 VNĐ",
+    "highlights": "Góc ẩm thực đậm phong vị Đà Lạt giữa lòng Gò Vấp. Bánh căn khuôn đất giòn vỏ mềm trong chấm xíu mại nóng hổi béo bùi, nước chấm có mắm nêm thanh dịu hoặc mắm ngọt tự chọn, cực kỳ hợp đi ăn chiều tối mát mẻ.",
+    "images": [
+      "images/dalatown_banh_can.png"
+    ],
+    "tags": [
+      "bánh căn",
+      "đà lạt",
+      "bánh tráng nướng",
+      "xíu mại",
+      "ăn vặt",
+      "lê văn thọ"
+    ],
+    "source": "Threads & Tripi Review (Top Bánh Căn Sài Gòn)",
+    "date_added": "2026-11-09"
+  },
+  {
+    "id": "bun-cay-hai-thuan-nguyen-van-khoi",
+    "name": "Bún Cay Thái 2 Thuận - Nguyễn Văn Khối",
+    "category": "Đặc sản & Món nước",
+    "city": "Hồ Chí Minh",
+    "district": "Gò Vấp",
+    "address": "320 Nguyễn Văn Khối (Cây Trâm cũ), Phường 9, Gò Vấp",
+    "phone": "0929 233 114",
+    "specialties": [
+      "Bún Thái chua cay hải sản thập cẩm",
+      "Bún hải sản mực giòn tôm sú bò Mỹ",
+      "Trà tắc giải nhiệt khổng lồ"
+    ],
+    "price_range": "35.000 - 55.000 VNĐ",
+    "highlights": "Tô bún Thái chua cay đậm vị Tomyum handmade ninh từ tôm và xương, ngập tràn topping tôm sú tươi ngọt, mực giòn sần sật, thịt bò và chả viên. Không gian rộng thoáng, quán rất đông khách vào các ngày mưa và buổi tối.",
+    "images": [
+      "images/bun_cay_hai_thuan.png"
+    ],
+    "tags": [
+      "bún thái",
+      "bún cay",
+      "hải sản",
+      "chua cay",
+      "nguyễn văn khối",
+      "gò vấp"
+    ],
+    "source": "Threads, Lemon8 & Tripi/LUG Review",
+    "date_added": "2026-11-09"
   }
 ]
