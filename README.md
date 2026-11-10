@@ -247,3 +247,15 @@ Kho lưu trữ các quán ăn, món ngon, review thực tế thu thập hàng ng
 * **Tags:** `#Gò Vấp`, `#Bún Thái`, `#Bún cay`, `#Hải sản`, `#Nguyễn Văn Khối`, `#Bình dân`
 
 ---
+
+## 22. Bếp Ông Lập - Bún Bò Thố Đá & Bò Kho Xuyên Tiêu (Gò Vấp)
+![Bếp Ông Lập - Bún Bò Thố Đá](images/bun_bo_tho_da_bep_ong_lap.jpg)
+* **Địa chỉ:** 301 Nguyễn Văn Lượng, Phường 10, Quận Gò Vấp, TP.HCM
+* **Hotline:** 0986 565 788 / 1900 999 973
+* **Món chính / Must-try:** Bún bò thố đá sườn sụn / đuôi bò, Bún bò đặc biệt thố đá, Bò kho xuyên tiêu cay nồng, Lẩu bò nhúng mắm ruốc
+* **Giá cả:** 45.000 - 85.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Quán bún bò thố đá trứ danh cực đông khách tại Gò Vấp; nước dùng đựng trong thố đá sôi sùng sục giữ nóng hổi đến giọt cuối cùng, nước hầm thanh ngọt tự nhiên, thịt bắp bò mềm ngậy ăn kèm mắm ruốc chấm pha riêng thơm nức mũi.
+* **Nguồn review & Link bài viết:** [Bếp Ông Lập & MXH Ẩm Thực](https://beponglap.vn/bep-ong-lap-chieu-dai-thuc-khach-mon-bun-bo-tho-da-tru-danh-va-bo-kho-xuyen-tieu-gay-nghien-tai-go-vap)
+* **Tags:** `#Gò Vấp`, `#Bún bò thố đá`, `#Bếp Ông Lập`, `#Nguyễn Văn Lượng`, `#Ăn sáng`, `#Ăn trưa`, `#Ăn tối`
+
+---

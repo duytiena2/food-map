@@ -610,5 +610,36 @@
     ],
     "source": "Threads, Lemon8 & Tripi/LUG Review",
     "date_added": "2026-11-09"
+  },
+  {
+    "id": "bun-bo-tho-da-bep-ong-lap-gv",
+    "name": "Bếp Ông Lập - Bún Bò Thố Đá & Bò Kho Xuyên Tiêu",
+    "category": "Bún bò & Đặc sản món nước",
+    "district": "Gò Vấp",
+    "city": "TP.HCM",
+    "address": "301 Nguyễn Văn Lượng, Phường 10, Quận Gò Vấp, TP.HCM",
+    "phone": "0986565788",
+    "specialties": [
+      "Bún bò thố đá sườn sụn / đuôi bò",
+      "Bún bò thố đá đặc biệt",
+      "Bò kho xuyên tiêu cay nồng",
+      "Lẩu bò nhúng mắm ruốc"
+    ],
+    "price_range": "45.000 - 85.000 VNĐ",
+    "highlights": "Nổi danh với bún bò phục vụ trong thố đá nóng sôi sùng sục giữ nhiệt cực lâu. Nước dùng hầm từ xương bò thanh ngọt tự nhiên không gắt bột ngọt, thịt bắp bò dày mềm, sườn sụn giòn rụm kết hợp nước chấm mắm ruốc pha riêng đậm đà siêu cuốn.",
+    "images": [
+      "images/bun_bo_tho_da_bep_ong_lap.jpg"
+    ],
+    "tags": [
+      "#Gò Vấp",
+      "#Bún bò thố đá",
+      "#Bếp Ông Lập",
+      "#Nguyễn Văn Lượng",
+      "#Ăn sáng",
+      "#Ăn trưa",
+      "#Ăn tối"
+    ],
+    "source": "https://beponglap.vn/bep-ong-lap-chieu-dai-thuc-khach-mon-bun-bo-tho-da-tru-danh-va-bo-kho-xuyen-tieu-gay-nghien-tai-go-vap",
+    "date_added": "2026-11-10"
   }
 ]
