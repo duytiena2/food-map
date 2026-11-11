@@ -259,3 +259,14 @@ Kho lưu trữ các quán ăn, món ngon, review thực tế thu thập hàng ng
 * **Tags:** `#Gò Vấp`, `#Bún bò thố đá`, `#Bếp Ông Lập`, `#Nguyễn Văn Lượng`, `#Ăn sáng`, `#Ăn trưa`, `#Ăn tối`
 
 ---
+
+## 23. GAPHUNG JUMAK - Korean Pub & Quán Ăn Hàn Quốc (가풍주막) (Gò Vấp)
+* **Địa chỉ:** 113 Nguyễn Văn Lượng, Phường 17, Quận Gò Vấp, TP.HCM
+* **Hotline:** 038 219 8676
+* **Món chính / Must-try:** Bánh xèo Hàn Quốc giòn rụm (Kimchijeon / Pajeon), Canh kim chi thịt heo hầm (Kimchi Jjigae), Gà sốt tỏi cay ngọt, Rượu gạo Makgeolli & Soju
+* **Giá cả:** 60.000 - 180.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Không gian pub nhậu chuẩn Hàn ấm cúng do chính chủ người Hàn đứng bếp tại Gò Vấp; món ăn chuẩn vị nguyên bản không bị lai ngọt, panchan đầy đặn, cực kỳ lý tưởng để họp mặt bạn bè lai rai buổi tối.
+* **Nguồn review & Link bài viết:** [Threads & Review Ẩm Thực Sài Gòn (Mecrawl / LocalVietnam)](https://mecrawl.com/en/places/go-vaps-quiet-korean-star-inside-gaphung-jumak-a_01m2d8caepvvcexvtefzw85w4k)
+* **Tags:** `#Gò Vấp`, `#Món Hàn`, `#Korean Pub`, `#Gaphung Jumak`, `#Nguyễn Văn Lượng`, `#Ăn tối`, `#Tụ tập bạn bè`
+
+---
