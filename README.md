@@ -270,3 +270,26 @@ Kho lưu trữ các quán ăn, món ngon, review thực tế thu thập hàng ng
 * **Tags:** `#Gò Vấp`, `#Món Hàn`, `#Korean Pub`, `#Gaphung Jumak`, `#Nguyễn Văn Lượng`, `#Ăn tối`, `#Tụ tập bạn bè`
 
 ---
+
+## 24. Mì Vịt Tiềm A Cón (Gò Vấp)
+![Mì Vịt Tiềm A Cón](images/mi_vit_tiem_a_con.jpg)
+* **Địa chỉ:** 557 Quang Trung, Phường 10, Quận Gò Vấp, TP.HCM
+* **Hotline:** 028 3894 1358
+* **Món chính / Must-try:** Mì vịt tiềm đùi góc tư (chiên giòn hoặc tiềm mềm), Mì sủi cảo tôm thịt, Mì xào giòn đồ biển, Hoành thánh chiên giòn
+* **Giá cả:** 65.000 - 110.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Tiệm mì tiềm người Hoa lâu năm nức tiếng trên trục đường Quang Trung. Đùi vịt góc tư hầm thuốc bắc mềm rục ngọt thịt, da vịt chiên vàng thơm không hôi ngấy, nước dùng thảo mộc thanh ngọt đậm đà, sợi mì trứng vàng tươi dai sần sật ăn kèm đu đủ ngâm chua giòn giải ngấy.
+* **Nguồn review & Link bài viết:** [Wanderlog & Bách Hóa XANH / Kingfoodmart](https://wanderlog.com/place/details/1082937/m%C3%AC-v%E1%BB%8Bt-ti%E1%BB%81m-a-c%C3%B3n)
+* **Tags:** `#Gò Vấp`, `#Món Hoa`, `#Mì vịt tiềm`, `#Quang Trung`, `#A Cón`, `#Ăn tối`, `#Lâu đời`
+
+---
+
+## 25. Bánh Mì Nướng Campuchia Bayon (Gò Vấp)
+![Bánh Mì Nướng Campuchia Bayon](images/banh_mi_nuong_bayon.jpg)
+* **Địa chỉ:** 368/10c Nguyễn Văn Lượng, Phường 10, Quận Gò Vấp, TP.HCM
+* **Món chính / Must-try:** Bánh mì nướng bơ chà bông Campuchia, Xiên thịt nướng sốt Campuchia mềm mọng, Bánh hỏi thịt nướng than, Sốt bơ chấm béo mặn đặc biệt
+* **Giá cả:** 25.000 - 50.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Quán ăn vặt từng gây sốt rần rần trên TikTok/Threads tại khu Nguyễn Văn Lượng. Bánh mì quết bơ chà bông nướng than giòn rụm thơm lừng, thịt xiên nướng than hoa mềm mọng nước không bị khô, chấm cùng chén sốt bơ béo ngậy mằn mặn và đồ chua chống ngấy cực đỉnh.
+* **Nguồn review & Link bài viết:** [Threads & TikTok ẩm thực (DiDau Review)](https://didau.com/qua-chat-luong-b-nh-mi-nuong-campuchia-duoc-cac-tiktoker-giai-cuu-ban-khong-kip-tho-o-go-vap)
+* **Tags:** `#Gò Vấp`, `#Ăn vặt`, `#Bánh mì nướng`, `#Campuchia`, `#Nguyễn Văn Lượng`, `#Xiên nướng`, `#Hot TikTok`
+
+---

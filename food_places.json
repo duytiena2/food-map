@@ -671,5 +671,69 @@
     ],
     "source": "Threads & Cộng Đồng Ẩm Thực Hàn Quốc Sài Gòn (Mecrawl / LocalVietnam Review)",
     "date_added": "2026-11-11"
+  },
+  {
+    "id": "mi-vit-tiem-a-con-quang-trung",
+    "name": "Mì Vịt Tiềm A Cón",
+    "category": "Món Hoa & Mì Vịt Tiềm",
+    "city": "Hồ Chí Minh",
+    "district": "Gò Vấp",
+    "address": "557 Quang Trung, Phường 10, Quận Gò Vấp, TP.HCM",
+    "phone": "02838941358",
+    "specialties": [
+      "Mì vịt tiềm đùi góc tư (chiên giòn hoặc tiềm mềm)",
+      "Mì sủi cảo tôm thịt",
+      "Mì xào giòn đồ biển",
+      "Hoành thánh chiên giòn"
+    ],
+    "price_range": "65.000 - 110.000 VNĐ",
+    "highlights": "Tiệm mì tiềm người Hoa lâu năm nức tiếng trên trục đường Quang Trung. Đùi vịt góc tư hầm thuốc bắc mềm rục ngọt thịt, da vịt chiên vàng thơm không hôi ngấy, nước dùng thảo mộc thanh ngọt đậm đà, sợi mì trứng vàng tươi dai sần sật ăn kèm đu đủ ngâm chua giòn giải ngấy.",
+    "images": [
+      "images/mi_vit_tiem_a_con.jpg"
+    ],
+    "tags": [
+      "#Gò Vấp",
+      "#Món Hoa",
+      "#Mì vịt tiềm",
+      "#Quang Trung",
+      "#A Cón",
+      "#Ăn tối",
+      "#Lâu đời"
+    ],
+    "source": "Wanderlog & Top ẩm thực Gò Vấp (Kingfoodmart)",
+    "date_added": "2026-11-12",
+    "source_url": "https://wanderlog.com/place/details/1082937/m%C3%AC-v%E1%BB%8Bt-ti%E1%BB%81m-a-c%C3%B3n"
+  },
+  {
+    "id": "banh-mi-nuong-campuchia-bayon",
+    "name": "Bánh Mì Nướng Campuchia Bayon",
+    "category": "Ăn vặt & Đường phố",
+    "city": "Hồ Chí Minh",
+    "district": "Gò Vấp",
+    "address": "368/10c Nguyễn Văn Lượng, Phường 10, Quận Gò Vấp, TP.HCM",
+    "phone": null,
+    "specialties": [
+      "Bánh mì nướng bơ chà bông Campuchia",
+      "Xiên thịt nướng sốt Campuchia mềm mọng",
+      "Bánh hỏi thịt nướng than",
+      "Sốt bơ chấm béo mặn đặc biệt"
+    ],
+    "price_range": "25.000 - 50.000 VNĐ",
+    "highlights": "Quán ăn vặt từng gây sốt rần rần trên TikTok/Threads tại khu Nguyễn Văn Lượng. Bánh mì quết bơ chà bông nướng than giòn rụm thơm lừng, thịt xiên nướng than hoa mềm mọng nước không bị khô, chấm cùng chén sốt bơ béo ngậy mằn mặn và đồ chua chống ngấy cực đỉnh.",
+    "images": [
+      "images/banh_mi_nuong_bayon.jpg"
+    ],
+    "tags": [
+      "#Gò Vấp",
+      "#Ăn vặt",
+      "#Bánh mì nướng",
+      "#Campuchia",
+      "#Nguyễn Văn Lượng",
+      "#Xiên nướng",
+      "#Hot TikTok"
+    ],
+    "source": "Threads & TikTok ẩm thực (DiDau Review)",
+    "date_added": "2026-11-12",
+    "source_url": "https://didau.com/qua-chat-luong-b-nh-mi-nuong-campuchia-duoc-cac-tiktoker-giai-cuu-ban-khong-kip-tho-o-go-vap"
   }
 ]
