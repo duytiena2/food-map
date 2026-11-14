@@ -293,3 +293,27 @@ Kho lưu trữ các quán ăn, món ngon, review thực tế thu thập hàng ng
 * **Tags:** `#Gò Vấp`, `#Ăn vặt`, `#Bánh mì nướng`, `#Campuchia`, `#Nguyễn Văn Lượng`, `#Xiên nướng`, `#Hot TikTok`
 
 ---
+
+## 26. Bò Lá Lốt Anh Ba (Phú Nhuận)
+![Bò Lá Lốt Anh Ba](images/bo_la_lot_anh_ba.jpg)
+* **Địa chỉ:** 460 Phan Xích Long, Phường 2, Quận Phú Nhuận, TP.HCM
+* **Hotline:** 090 333 3333
+* **Món chính / Must-try:** Bò lá lốt nướng than hoa, Bò mỡ chài béo ngậy nướng giòn, Bánh hỏi bò lá lốt mỡ hành đậu phộng, Mắm nêm pha dứa chua cay đậm đà
+* **Giá cả:** 35.000 - 80.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Quán bò lá lốt trứ danh nức tiếng khu phố ẩm thực Phan Xích Long (Phú Nhuận). Bò cuốn lá lốt nướng than hoa thơm lừng cả con phố, thịt bò mềm mọng không bị khô xác, mỡ chài béo ngậy thơm nức, ăn kèm bánh hỏi/bánh tráng, rau rừng đủ loại và chén mắm nêm đậm đà thơm mùi dứa cay nồng.
+* **Nguồn review & Link bài viết:** [Threads & Foody / Riviu](https://www.foody.vn/ho-chi-minh/bo-la-lot-anh-ba-phan-xich-long)
+* **Tags:** `#Phú Nhuận`, `#Phan Xích Long`, `#Bò lá lốt`, `#Bò mỡ chài`, `#Ăn tối`, `#Lâu đời`, `#Hot Threads`
+
+---
+
+## 27. Bún Bò Chú Gấu (Gò Vấp)
+![Bún Bò Chú Gấu](images/bun_bo_chu_gau.jpg)
+* **Địa chỉ:** 108/4 Nguyễn Văn Lượng, Phường 16, Quận Gò Vấp, TP.HCM
+* **Hotline:** Đang cập nhật
+* **Món chính / Must-try:** Bún bắp bò hoa giòn sần sật, Bún nạm gân bò trong veo mềm dẻo, Bún sườn bò hầm mềm rục, Nước dùng hầm xương bò thanh ngọt tự nhiên
+* **Giá cả:** 40.000 - 65.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Quán bún bò buổi sáng nức tiếng và 'cháy hàng' nhanh nhất khu Nguyễn Văn Lượng (mở từ 6h00, thường hết veo trước 8h30). Tô bún đầy đặn ngập tràn bắp hoa bò thái dày giòn sần sật, nạm gân thơm béo; nước lèo trong veo ngọt thanh tự nhiên từ xương bò hầm chứ không ngọt gắt bột ngọt, chuẩn vị miền Trung.
+* **Nguồn review & Link bài viết:** [Cộng đồng ẩm thực Gò Vấp & Foody](https://www.foody.vn/ho-chi-minh/bun-bo-chu-gau)
+* **Tags:** `#Gò Vấp`, `#Nguyễn Văn Lượng`, `#Bún bò`, `#Bắp bò hoa`, `#Ăn sáng`, `#Đông khách`, `#Hot Review`
+
+---
