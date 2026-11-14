@@ -735,5 +735,69 @@
     "source": "Threads & TikTok ẩm thực (DiDau Review)",
     "date_added": "2026-11-12",
     "source_url": "https://didau.com/qua-chat-luong-b-nh-mi-nuong-campuchia-duoc-cac-tiktoker-giai-cuu-ban-khong-kip-tho-o-go-vap"
+  },
+  {
+    "id": "bo-la-lot-anh-ba-phan-xich-long",
+    "name": "Bò Lá Lốt Anh Ba",
+    "category": "Bò lá lốt & Quán ăn gia đình",
+    "city": "TP.HCM",
+    "district": "Phú Nhuận",
+    "address": "460 Phan Xích Long, Phường 2, Quận Phú Nhuận, TP.HCM",
+    "phone": "090 333 3333",
+    "specialties": [
+      "Bò lá lốt nướng than hoa",
+      "Bò mỡ chài nướng giòn ngậy",
+      "Bánh hỏi bò lá lốt mỡ hành",
+      "Mắm nêm pha dứa chua ngọt đậm đà"
+    ],
+    "price_range": "35.000 - 80.000 VNĐ",
+    "highlights": "Quán bò lá lốt trứ danh nức tiếng khu phố ẩm thực Phan Xích Long. Thịt bò mềm mọng không khô xác, mỡ chài béo ngậy nướng vàng xém, ăn kèm bánh hỏi, rau rừng phong phú và mắm nêm pha dứa cay nồng đậm đà.",
+    "images": [
+      "images/bo_la_lot_anh_ba.jpg"
+    ],
+    "tags": [
+      "Phú Nhuận",
+      "Phan Xích Long",
+      "Bò lá lốt",
+      "Bò mỡ chài",
+      "Ăn tối",
+      "Lâu đời",
+      "Hot Threads"
+    ],
+    "source": "Threads & Foody / Riviu",
+    "source_url": "https://www.foody.vn/ho-chi-minh/bo-la-lot-anh-ba-phan-xich-long",
+    "date_added": "2026-11-14"
+  },
+  {
+    "id": "bun-bo-chu-gau-nguyen-van-luong",
+    "name": "Bún Bò Chú Gấu",
+    "category": "Bún bò Huế & Món nước",
+    "city": "TP.HCM",
+    "district": "Gò Vấp",
+    "address": "108/4 Nguyễn Văn Lượng, Phường 16, Quận Gò Vấp, TP.HCM",
+    "phone": "Đang cập nhật",
+    "specialties": [
+      "Bún bắp bò hoa giòn sần sật",
+      "Bún nạm gân bò mềm dẻo",
+      "Bún sườn bò hầm mềm rục",
+      "Nước dùng hầm xương ngọt thanh tự nhiên"
+    ],
+    "price_range": "40.000 - 65.000 VNĐ",
+    "highlights": "Quán bún bò ăn sáng đông nghẹt và hết hàng cực sớm (thường hết trước 8h30 sáng). Bắp bò hoa thái dày giòn ngọt, nước lèo thanh trong hầm từ xương bò tự nhiên chuẩn vị miền Trung không gắt bột ngọt.",
+    "images": [
+      "images/bun_bo_chu_gau.jpg"
+    ],
+    "tags": [
+      "Gò Vấp",
+      "Nguyễn Văn Lượng",
+      "Bún bò",
+      "Bắp bò hoa",
+      "Ăn sáng",
+      "Đông khách",
+      "Hot Review"
+    ],
+    "source": "Cộng đồng ẩm thực Gò Vấp & Foody",
+    "source_url": "https://www.foody.vn/ho-chi-minh/bun-bo-chu-gau",
+    "date_added": "2026-11-14"
   }
 ]
