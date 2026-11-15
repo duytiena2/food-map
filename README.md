@@ -317,3 +317,27 @@ Kho lưu trữ các quán ăn, món ngon, review thực tế thu thập hàng ng
 * **Tags:** `#Gò Vấp`, `#Nguyễn Văn Lượng`, `#Bún bò`, `#Bắp bò hoa`, `#Ăn sáng`, `#Đông khách`, `#Hot Review`
 
 ---
+
+## 28. Xỉn Thái Quán (Gò Vấp)
+![Xỉn Thái Quán](images/xin_thai_quan.jpg)
+* **Địa chỉ:** 30 Đường Số 10, KDC Cityland Park Hills, Phường 10, Quận Gò Vấp, TP.HCM
+* **Hotline:** 0396770444
+* **Món chính / Must-try:** Gỏi đu đủ Thái (Som Tum) tôm khô đậu phộng, Bò tiger sốt wasabi (Tiger Beef), Lẩu Thái hải sản / Tomyum, Pad Thái, Sườn nướng tháp, Xôi xoài
+* **Giá cả:** 39.000 - 150.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Quán Thái mới mở trong KDC Cityland Park Hills, bếp chính được cho là từ Bangkok nên vị Isaan khá chuẩn và đậm, không bị lai ngọt. Gỏi đu đủ Thái và bò tiger sốt wasabi được khen nhất; không gian mở, quán còn khá vắng nên phục vụ nhanh. Mở khuya 17h - 2h (T6-T7 tới 3h) rất hợp nhậu đêm. Google Maps 4.7/5 nhưng mới ~10 đánh giá nên điểm số chưa thật đại diện.
+* **Nguồn review & Link bài viết:** [Google Maps & Cộng đồng ăn uống Gò Vấp](https://www.facebook.com/xinthaiquan)
+* **Tags:** `#Gò Vấp`, `#Món Thái`, `#Isaan`, `#Cityland`, `#Ăn khuya`, `#Nhậu`, `#Quán mới`
+
+---
+
+## 29. Ăn Vặt SIMON - Bánh Tráng, Tré Trộn & Chân Gà (Gò Vấp)
+![Ăn Vặt SIMON](images/an_vat_simon.jpg)
+* **Địa chỉ:** 638/10 Quang Trung, Phường 11, Quận Gò Vấp, TP.HCM (hẻm đối diện Beta Cinema)
+* **Hotline:** 0968873850
+* **Món chính / Must-try:** Bánh tráng trộn sa tế tỏi phi, Tré trộn, Chân gà sốt Thái, Bánh mì nướng muối ớt, Cá viên chiên sốt mắm, Bắp xào
+* **Giá cả:** 25.000 - 129.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Tọa độ ăn vặt đêm nổi trên TikTok/Lemon8 ở Gò Vấp, mở tới 1h-2h sáng, bàn ghế nhiều màu kiểu canteen nên rất đông nhóm bạn trẻ. Tré trộn đậm đà thấm vị, chân gà sốt Thái cuốn, bánh tráng trộn sa tế tỏi phi thơm; đồ làm tại chỗ, lên món nhanh, giá sinh viên. Lưu ý: chỗ để xe chật, vài review chê nhân viên thái độ và món viên chiên hơi mặn. Google Maps 4.2-4.3/5 (~50 đánh giá).
+* **Nguồn review & Link bài viết:** [TikTok / Lemon8 review & Google Maps](https://www.lemon8-app.com/@yourling.ugc/7679257793216446983?region=vn)
+* **Tags:** `#Gò Vấp`, `#Quang Trung`, `#Ăn vặt`, `#Ăn khuya`, `#Bánh tráng trộn`, `#Chân gà sốt Thái`, `#Hot TikTok`
+
+---
