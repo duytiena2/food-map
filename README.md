@@ -341,3 +341,27 @@ Kho lưu trữ các quán ăn, món ngon, review thực tế thu thập hàng ng
 * **Tags:** `#Gò Vấp`, `#Quang Trung`, `#Ăn vặt`, `#Ăn khuya`, `#Bánh tráng trộn`, `#Chân gà sốt Thái`, `#Hot TikTok`
 
 ---
+
+## 30. Lẩu Gà Lá É Nhật Trường (Bình Lợi - Bình Thạnh)
+![Lẩu Gà Lá É Nhật Trường](images/lau_ga_la_e_nhat_truong.jpg)
+* **Địa chỉ:** 261 Bình Lợi, Phường 13, Quận Bình Thạnh, TP.HCM
+* **Hotline:** 0932029707
+* **Món chính / Must-try:** Lẩu gà lá é Phú Yên, Gà nướng muối ớt, Gà ta hấp lá chúc, Lòng gà xào mướp
+* **Giá cả:** 60.000 - 320.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Quán lẩu gà lá é nức tiếng khu Bình Lợi ven sông thoáng mát. Gà ta thả vườn chắc thịt dai ngọt, nước dùng nấu ngọt thanh từ nước khoáng kết hợp lá é tươi the cay nồng và ớt xiêm xanh cay ấm, nấm bào ngư giòn ngọt. Rất thích hợp cho tụ họp bạn bè, gia đình đổi gió chiều tối.
+* **Nguồn review & Link bài viết:** [ShopeeFood & Review ẩm thực Bình Thạnh](https://shopeefood.vn/ho-chi-minh/lau-ga-la-e-nhat-truong-261-binh-loi)
+* **Tags:** `#Bình Thạnh`, `#Bình Lợi`, `#Lẩu gà lá é`, `#Gà ta`, `#Nhậu ven sông`, `#Quán mới`
+
+---
+
+## 31. Quán Ốc Năm Nghêu (Nguyễn Gia Trí - Bình Thạnh)
+![Quán Ốc Năm Nghêu](images/oc_nam_ngheu.jpg)
+* **Địa chỉ:** 217 Nguyễn Gia Trí (D2 cũ), Phường 25, Quận Bình Thạnh, TP.HCM
+* **Hotline:** 0933588503
+* **Món chính / Must-try:** Nghêu hấp sả / hấp Thái, Ốc hương xào bơ tỏi, Ốc móng tay xào rau muống, Sò huyết nướng mọi, Mì gói hải sản, Chim cút rôti
+* **Giá cả:** 20.000 - 100.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Tụ điểm ăn ốc và nhậu đêm nức tiếng của sinh viên và giới trẻ Bình Thạnh trên con phố ẩm thực D2 Nguyễn Gia Trí. Hải sản tươi sống đa dạng (ốc mỡ, ốc hương, nghêu sò, móng tay) xào nướng đậm đà, nóng hổi tại chỗ. Không gian vỉa hè rộng rãi thoáng mát, mở xuyên đêm tới 2h sáng, giá cực mềm.
+* **Nguồn review & Link bài viết:** [Google Maps & Địa điểm ăn uống Bình Thạnh](https://diadiemanuong.net.vn/quan-oc-nam-ngheu-nguyen-gia-tri-binh-thanh-66019/)
+* **Tags:** `#Bình Thạnh`, `#Nguyễn Gia Trí`, `#Quán ốc`, `#Hải sản`, `#Ăn khuya`, `#Học sinh sinh viên`, `#Quán mới`
+
+---

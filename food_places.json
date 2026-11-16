@@ -867,5 +867,70 @@
       "Hot TikTok"
     ],
     "date_added": "2026-11-15"
+  },
+  {
+    "id": "lau-ga-la-e-nhat-truong-binh-loi",
+    "name": "Lẩu Gà Lá É Nhật Trường - Bình Lợi",
+    "category": "Lẩu & Món gà",
+    "city": "Hồ Chí Minh",
+    "district": "Bình Thạnh",
+    "address": "261 Bình Lợi, Phường 13, Quận Bình Thạnh, TP.HCM",
+    "phone": "0932029707",
+    "specialties": [
+      "Lẩu gà lá é Phú Yên",
+      "Gà nướng muối ớt",
+      "Gà ta hấp lá chúc",
+      "Lòng gà xào mướp"
+    ],
+    "price_range": "60.000 - 320.000 VNĐ",
+    "highlights": "Quán lẩu gà lá é nức tiếng khu Bình Lợi ven sông thoáng mát. Gà ta thả vườn chắc thịt dai ngọt, nước dùng nấu ngọt thanh từ nước khoáng kết hợp lá é tươi the cay nồng và ớt xiêm xanh cay ấm, nấm bào ngư giòn ngọt. Rất thích hợp cho tụ họp bạn bè, gia đình đổi gió chiều tối.",
+    "images": [
+      "images/lau_ga_la_e_nhat_truong.jpg"
+    ],
+    "source": "ShopeeFood / beFood & Review ẩm thực Bình Thạnh",
+    "source_url": "https://shopeefood.vn/ho-chi-minh/lau-ga-la-e-nhat-truong-261-binh-loi",
+    "tags": [
+      "Bình Thạnh",
+      "Bình Lợi",
+      "Lẩu gà lá é",
+      "Gà ta",
+      "Nhậu ven sông",
+      "Quán mới"
+    ],
+    "date_added": "2026-11-16"
+  },
+  {
+    "id": "quan-oc-nam-ngheu-nguyen-gia-tri",
+    "name": "Quán Ốc Năm Nghêu (D2)",
+    "category": "Ốc & Hải sản bình dân",
+    "city": "Hồ Chí Minh",
+    "district": "Bình Thạnh",
+    "address": "217 Nguyễn Gia Trí (D2 cũ), Phường 25, Quận Bình Thạnh, TP.HCM",
+    "phone": "0933588503",
+    "specialties": [
+      "Nghêu hấp sả / hấp Thái",
+      "Ốc hương xào bơ tỏi",
+      "Ốc móng tay xào rau muống",
+      "Sò huyết nướng mọi",
+      "Mì gói hải sản",
+      "Chim cút rôti"
+    ],
+    "price_range": "20.000 - 100.000 VNĐ",
+    "highlights": "Tụ điểm ăn ốc và nhậu đêm nức tiếng của sinh viên và giới trẻ Bình Thạnh trên con phố ẩm thực D2 Nguyễn Gia Trí. Hải sản tươi sống đa dạng (ốc mỡ, ốc hương, nghêu sò, móng tay) xào nướng đậm đà, nóng hổi tại chỗ. Không gian vỉa hè rộng rãi thoáng mát, mở xuyên đêm tới 2h sáng, giá cực mềm.",
+    "images": [
+      "images/oc_nam_ngheu.jpg"
+    ],
+    "source": "Google Maps & Địa điểm ăn uống Bình Thạnh",
+    "source_url": "https://diadiemanuong.net.vn/quan-oc-nam-ngheu-nguyen-gia-tri-binh-thanh-66019/",
+    "tags": [
+      "Bình Thạnh",
+      "Nguyễn Gia Trí",
+      "Quán ốc",
+      "Hải sản",
+      "Ăn khuya",
+      "Học sinh sinh viên",
+      "Quán mới"
+    ],
+    "date_added": "2026-11-16"
   }
 ]
