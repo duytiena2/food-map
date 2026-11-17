@@ -365,3 +365,15 @@ Kho lưu trữ các quán ăn, món ngon, review thực tế thu thập hàng ng
 * **Tags:** `#Bình Thạnh`, `#Nguyễn Gia Trí`, `#Quán ốc`, `#Hải sản`, `#Ăn khuya`, `#Học sinh sinh viên`, `#Quán mới`
 
 ---
+
+## 32. Bánh Canh Cua Gánh Thuý (Hoa Sứ - Phú Nhuận)
+![Bánh Canh Cua Gánh Thuý](images/banh_canh_cua_ganh_thuy.jpg)
+* **Địa chỉ:** 27B Hoa Sứ, Phường 7, Quận Phú Nhuận, TP.HCM
+* **Hotline:** 0707389992
+* **Món chính / Must-try:** Bánh canh cua trộn (bánh canh khô sốt đặc biệt), Bánh canh cua nước truyền thống thập cẩm, Hoành thánh chiên sốt phô mai, Thịt cua tươi ngọt & chả cua dai giòn
+* **Giá cả:** 45.000 - 70.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Quán bánh canh cua nổi đình nổi đám khu phố ẩm thực Phan Xích Long - Hoa Sứ, trưa nào cũng tấp nập thực khách. Điểm nhấn tạo trend là món bánh canh cua trộn khô độc lạ với sợi bánh canh dẻo dai thấm đẫm nước sốt đậm đà, ăn kèm hoành thánh chiên giòn rụm chấm xốt phô mai béo ngậy và chén súp cua ngọt thanh. Không gian sạch sẽ, bảo vệ dắt xe cực kỳ tận tình.
+* **Nguồn review & Link bài viết:** [ShopeeFood & TikTok / Food Blogger Review](https://shopeefood.vn/ho-chi-minh/banh-canh-cua-ganh-thuy)
+* **Tags:** `#Phú Nhuận`, `#Hoa Sứ`, `#Phan Xích Long`, `#Bánh canh cua`, `#Bánh canh trộn`, `#Ăn trưa`, `#Hot Trend`, `#Quán mới`
+
+---
