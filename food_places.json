@@ -965,5 +965,37 @@
       "Quán mới"
     ],
     "date_added": "2026-11-17"
+  },
+  {
+    "id": "banh-xeo-rau-rung-a-dat-pham-van-dong",
+    "name": "Bánh Xèo Rau Rừng A Đạt",
+    "category": "Bánh xèo & Đặc sản miền Tây",
+    "city": "Hồ Chí Minh",
+    "district": "Gò Vấp",
+    "address": "1 Phạm Văn Đồng, Phường 3, Quận Gò Vấp, TP.HCM",
+    "phone": "0944670708",
+    "specialties": [
+      "Bánh xèo tôm thịt giòn rụm",
+      "Bánh xèo bắp bò non",
+      "Bánh khọt tôm tươi vàng ươm",
+      "Rổ rau rừng Tây Ninh hơn 10 loại tươi rói (lá cóc, sao nhái, đọt xoài...)"
+    ],
+    "price_range": "35.000 - 65.000 VNĐ",
+    "highlights": "Quán bánh xèo rau rừng nổi tiếng bậc nhất ngay đầu đại lộ Phạm Văn Đồng (khu vực giáp ranh Gò Vấp - Phú Nhuận). Vỏ bánh mỏng vàng giòn rụm, rán ráo dầu, cuốn cùng rổ rau rừng xanh mướt ngập tràn các loại đọt lá thanh nhiệt, chấm nước mắm pha chua ngọt đậm vị miền Tây.",
+    "images": [
+      "images/banh_xeo_a_dat.jpg"
+    ],
+    "source": "ShopeeFood, Foody & Threads",
+    "source_url": "https://shopeefood.vn/ho-chi-minh/a-dat-banh-xeo-rau-rung",
+    "tags": [
+      "Gò Vấp",
+      "Phạm Văn Đồng",
+      "Bánh xèo",
+      "Bánh xèo rau rừng",
+      "Bánh khọt",
+      "Đặc sản miền Tây",
+      "Quán mới"
+    ],
+    "date_added": "2026-11-18"
   }
 ]

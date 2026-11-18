@@ -377,3 +377,15 @@ Kho lưu trữ các quán ăn, món ngon, review thực tế thu thập hàng ng
 * **Tags:** `#Phú Nhuận`, `#Hoa Sứ`, `#Phan Xích Long`, `#Bánh canh cua`, `#Bánh canh trộn`, `#Ăn trưa`, `#Hot Trend`, `#Quán mới`
 
 ---
+
+## 33. Bánh Xèo Rau Rừng A Đạt (Phạm Văn Đồng - Gò Vấp)
+![Bánh Xèo Rau Rừng A Đạt](images/banh_xeo_a_dat.jpg)
+* **Địa chỉ:** 1 Phạm Văn Đồng, Phường 3, Quận Gò Vấp, TP.HCM
+* **Hotline:** 0944 670 708
+* **Món chính / Must-try:** Bánh xèo tôm thịt giòn rụm, Bánh xèo bắp bò, Bánh khọt tôm tươi vàng ươm, Rổ rau rừng Tây Ninh hơn 10 loại lá tươi mát
+* **Giá cả:** 35.000 - 65.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Quán bánh xèo rau rừng quen thuộc nức tiếng ngay đầu trục đường Phạm Văn Đồng (gần vòng xoay Công viên Gia Định). Vỏ bánh đổ mỏng giòn rụm, ráo dầu không bị ngấy, nhân tôm thịt đầy đặn ngọt tươi. Điểm đắt giá nhất là rổ rau rừng Tây Ninh cực phong phú (lá cóc, sao nhái, đọt xoài, lá bứa...) ăn kèm chén nước mắm tỏi ớt pha chua ngọt chuẩn vị miền Tây.
+* **Nguồn review & Link bài viết:** [ShopeeFood & Foody Review](https://shopeefood.vn/ho-chi-minh/a-dat-banh-xeo-rau-rung)
+* **Tags:** , , , , , , 
+
+---
