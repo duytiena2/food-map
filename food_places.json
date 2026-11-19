@@ -997,5 +997,37 @@
       "Quán mới"
     ],
     "date_added": "2026-11-18"
+  },
+  {
+    "id": "bun-mam-co-ba-phan-huy-ich",
+    "name": "Bún Mắm Cô Ba - Phan Huy Ích",
+    "category": "Bún mắm & Đặc sản miền Tây",
+    "city": "Hồ Chí Minh",
+    "district": "Gò Vấp",
+    "address": "451 Phan Huy Ích, Phường 14, Quận Gò Vấp, TP.HCM",
+    "phone": "0939370972",
+    "specialties": [
+      "Bún mắm thập cẩm tô đặc biệt",
+      "Bún mắm đầu cá",
+      "Topping: Tôm tươi, mực dày, heo quay giòn rụm, chả cá chiên & ớt nhồi chả",
+      "Rổ rau sống miền Tây đầy đặn (kèo nèo, bông súng, rau đắng, bắp chuối)"
+    ],
+    "price_range": "55.000 - 90.000 VNĐ",
+    "highlights": "Quán bún mắm nức tiếng trục đường Phan Huy Ích, lúc nào cũng tấp nập khách. Nước dùng nấu từ mắm cá linh, cá sặc đậm đà thơm lừng chuẩn vị miền Tây không bị gắt. Một tô đầy ắp tôm mực tươi rói, chả cá dai giòn, miếng heo quay giòn bì béo ngậy kèm rổ rau đồng tươi sạch chấm mắm me cực cuốn.",
+    "images": [
+      "images/bun_mam_co_ba.jpg"
+    ],
+    "source": "Foody, Toididau & MXH",
+    "source_url": "https://www.foody.vn/ho-chi-minh/bun-mam-co-ba-phan-huy-ich",
+    "tags": [
+      "Gò Vấp",
+      "Phan Huy Ích",
+      "Bún mắm",
+      "Đặc sản miền Tây",
+      "Ăn trưa",
+      "Ăn tối",
+      "Quán mới"
+    ],
+    "date_added": "2026-11-19"
   }
 ]

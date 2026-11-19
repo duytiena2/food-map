@@ -386,6 +386,18 @@ Kho lưu trữ các quán ăn, món ngon, review thực tế thu thập hàng ng
 * **Giá cả:** 35.000 - 65.000 VNĐ
 * **Đánh giá & Điểm nổi bật:** Quán bánh xèo rau rừng quen thuộc nức tiếng ngay đầu trục đường Phạm Văn Đồng (gần vòng xoay Công viên Gia Định). Vỏ bánh đổ mỏng giòn rụm, ráo dầu không bị ngấy, nhân tôm thịt đầy đặn ngọt tươi. Điểm đắt giá nhất là rổ rau rừng Tây Ninh cực phong phú (lá cóc, sao nhái, đọt xoài, lá bứa...) ăn kèm chén nước mắm tỏi ớt pha chua ngọt chuẩn vị miền Tây.
 * **Nguồn review & Link bài viết:** [ShopeeFood & Foody Review](https://shopeefood.vn/ho-chi-minh/a-dat-banh-xeo-rau-rung)
-* **Tags:** , , , , , , 
+* **Tags:** `#Gò Vấp`, `#Phạm Văn Đồng`, `#Bánh xèo`, `#Bánh xèo rau rừng`, `#Bánh khọt`, `#Đặc sản miền Tây`, `#Quán mới`
+
+---
+
+## 34. Bún Mắm Cô Ba (Phan Huy Ích - Gò Vấp)
+![Bún Mắm Cô Ba](images/bun_mam_co_ba.jpg)
+* **Địa chỉ:** 451 Phan Huy Ích, Phường 14, Quận Gò Vấp, TP.HCM
+* **Hotline:** 0939 370 972
+* **Món chính / Must-try:** Bún mắm thập cẩm tô đặc biệt, Bún mắm đầu cá, Topping tôm tươi, mực dày, heo quay giòn rụm & chả cá nhồi ớt, Rổ rau sống miền Tây (kèo nèo, bông súng, rau đắng)
+* **Giá cả:** 55.000 - 90.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Quán bún mắm nức tiếng nhất nhì trục đường Phan Huy Ích với lượng khách đông đúc mỗi ngày. Nước lèo nấu từ cốt mắm cá linh, cá sặc dậy mùi thơm đậm đà đặc trưng mà không hề bị gắt hay tanh. Topping ú ụ đẫm miệng với tôm mực tươi ngọt, chả cá chiên dai thơm, heo quay giòn rụm ăn cùng dĩa rau đồng tươi mát chấm nước mắm me chua ngọt chuẩn bài.
+* **Nguồn review & Link bài viết:** [Foody & Đánh giá cộng đồng](https://www.foody.vn/ho-chi-minh/bun-mam-co-ba-phan-huy-ich)
+* **Tags:** `#Gò Vấp`, `#Phan Huy Ích`, `#Bún mắm`, `#Đặc sản miền Tây`, `#Ăn trưa`, `#Ăn tối`, `#Quán mới`
 
 ---
