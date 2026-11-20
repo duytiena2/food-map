@@ -401,3 +401,15 @@ Kho lưu trữ các quán ăn, món ngon, review thực tế thu thập hàng ng
 * **Tags:** `#Gò Vấp`, `#Phan Huy Ích`, `#Bún mắm`, `#Đặc sản miền Tây`, `#Ăn trưa`, `#Ăn tối`, `#Quán mới`
 
 ---
+
+## 35. Gà Nướng Anh Tư (Lê Quang Định - Bình Thạnh)
+![Gà Nướng Anh Tư](images/ga_nuong_anh_tu.jpg)
+* **Địa chỉ:** 449 Lê Quang Định, Phường 11, Quận Bình Thạnh, TP.HCM
+* **Hotline:** 0909 169 822
+* **Món chính / Must-try:** Gà nướng than hoa da giòn rụm (nguyên con / nửa con), Nước sốt chấm đậu phộng béo bùi cay nhẹ độc quyền, Xôi chiên giòn, Chân & cánh gà nướng muối ớt
+* **Giá cả:** 30.000 - 180.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Hàng gà nướng than hoa nức tiếng lâu năm trên trục đường Lê Quang Định (Bình Thạnh), lúc nào cũng nghi ngút khói thơm lừng cả khu phố. Gà được tẩm ướp đậm đà, nướng than đỏ rực giúp lớp da vàng ươm giòn rụm mà thớ thịt bên trong vẫn mọng nước, dai ngọt tự nhiên. Điểm tạo nên thương hiệu của quán chính là chén nước sốt chấm đậu phộng sánh béo ngậy pha vị cay the, ăn kèm dưa leo, rau răm và ổ bánh mì hoặc xôi chiên cực kỳ bắt vị.
+* **Nguồn review & Link bài viết:** [Foody & Vietnam Coracle Review](https://www.foody.vn/ho-chi-minh/anh-tu-ga-nuong)
+* **Tags:** , , , , , , 
+
+---
