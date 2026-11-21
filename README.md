@@ -410,6 +410,18 @@ Kho lưu trữ các quán ăn, món ngon, review thực tế thu thập hàng ng
 * **Giá cả:** 30.000 - 180.000 VNĐ
 * **Đánh giá & Điểm nổi bật:** Hàng gà nướng than hoa nức tiếng lâu năm trên trục đường Lê Quang Định (Bình Thạnh), lúc nào cũng nghi ngút khói thơm lừng cả khu phố. Gà được tẩm ướp đậm đà, nướng than đỏ rực giúp lớp da vàng ươm giòn rụm mà thớ thịt bên trong vẫn mọng nước, dai ngọt tự nhiên. Điểm tạo nên thương hiệu của quán chính là chén nước sốt chấm đậu phộng sánh béo ngậy pha vị cay the, ăn kèm dưa leo, rau răm và ổ bánh mì hoặc xôi chiên cực kỳ bắt vị.
 * **Nguồn review & Link bài viết:** [Foody & Vietnam Coracle Review](https://www.foody.vn/ho-chi-minh/anh-tu-ga-nuong)
-* **Tags:** , , , , , , 
+* **Tags:** `#Bình Thạnh`, `#Lê Quang Định`, `#Gà nướng`, `#Gà nướng than`, `#Món nướng`, `#Ăn tối`, `#Quán mới`
+
+---
+
+## 36. Bánh Cuốn Trứng Vạn Kiếp (Vạn Kiếp - Bình Thạnh)
+![Bánh Cuốn Trứng Vạn Kiếp](images/banh_cuon_trung_van_kiep.jpg)
+* **Địa chỉ:** 55/19 Vạn Kiếp, Phường 3, Quận Bình Thạnh, TP.HCM
+* **Hotline:** 028 3510 4723
+* **Món chính / Must-try:** Bánh cuốn trứng lòng đào béo ngậy, Bánh cuốn truyền thống thịt bằm nấm mèo xá bấu, Bánh cuốn thập cẩm chà bông & thịt gà xắt hạt lựu, Chả lụa, chả quế, hành phi tự phi giòn rụm
+* **Giá cả:** 17.000 - 35.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Hàng bánh cuốn núp hẻm nức tiếng lâu năm trên con đường ẩm thực Vạn Kiếp, lúc nào cũng tấp nập khách ăn sáng. Điểm đắt giá nhất là lớp vỏ bánh tráng mỏng mềm mướt bọc trọn lòng đỏ trứng gà béo ngậy tan chảy, nhân thịt bằm hòa quyện cùng thịt gà hạt lựu giòn ngọt lạ miệng. Đĩa bánh dọn ra nóng hổi ngập tràn hành phi thơm giòn, ăn kèm chả lụa dày miếng và nước mắm chua ngọt ấm bụng chuẩn vị sành ăn Sài Gòn.
+* **Nguồn review & Link bài viết:** [Toplist & Đánh giá ẩm thực Vạn Kiếp](https://toplist.vn/top-list/quan-banh-cuon-ngon-nhat-quan-binh-thanh-tp-hcm-55915.htm)
+* **Tags:** `#Bình Thạnh`, `#Vạn Kiếp`, `#Bánh cuốn trứng`, `#Bánh cuốn nóng`, `#Món sáng`, `#Núp hẻm`, `#Quán mới`
 
 ---

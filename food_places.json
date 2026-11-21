@@ -1061,5 +1061,37 @@
       "Quán mới"
     ],
     "date_added": "2026-11-20"
+  },
+  {
+    "id": "banh-cuon-trung-van-kiep",
+    "name": "Bánh Cuốn Trứng Vạn Kiếp",
+    "category": "Món sáng & Ăn vặt",
+    "city": "Hồ Chí Minh",
+    "district": "Bình Thạnh",
+    "address": "55/19 Vạn Kiếp, Phường 3, Quận Bình Thạnh, TP.HCM",
+    "phone": "028 3510 4723",
+    "specialties": [
+      "Bánh cuốn trứng lòng đào béo ngậy",
+      "Bánh cuốn truyền thống thịt bằm nấm mèo xá bấu",
+      "Bánh cuốn thập cẩm chà bông & thịt gà xắt hạt lựu",
+      "Chả lụa, chả quế, hành phi tự phi giòn rụm"
+    ],
+    "price_range": "17.000 - 35.000 VNĐ",
+    "highlights": "Hàng bánh cuốn núp hẻm nức tiếng lâu năm trên con đường ẩm thực Vạn Kiếp, lúc nào cũng tấp nập khách ăn sáng. Điểm đắt giá nhất là lớp vỏ bánh tráng mỏng mềm mướt bọc trọn lòng đỏ trứng gà béo ngậy tan chảy, nhân thịt bằm hòa quyện cùng thịt gà hạt lựu giòn ngọt lạ miệng. Đĩa bánh dọn ra nóng hổi ngập tràn hành phi thơm giòn, ăn kèm chả lụa dày miếng và nước mắm chua ngọt ấm bụng chuẩn vị sành ăn Sài Gòn.",
+    "images": [
+      "images/banh_cuon_trung_van_kiep.jpg"
+    ],
+    "source": "Toplist & Đánh giá ẩm thực Vạn Kiếp",
+    "source_url": "https://toplist.vn/top-list/quan-banh-cuon-ngon-nhat-quan-binh-thanh-tp-hcm-55915.htm",
+    "tags": [
+      "Bình Thạnh",
+      "Vạn Kiếp",
+      "Bánh cuốn trứng",
+      "Bánh cuốn nóng",
+      "Món sáng",
+      "Núp hẻm",
+      "Quán mới"
+    ],
+    "date_added": "2026-11-21"
   }
 ]
