@@ -1093,5 +1093,37 @@
       "Quán mới"
     ],
     "date_added": "2026-11-21"
+  },
+  {
+    "id": "ha-cao-45-nguyen-van-lac",
+    "name": "Há Cảo 45 (Nguyễn Văn Lạc)",
+    "category": "Món sáng & Ăn vặt",
+    "city": "Hồ Chí Minh",
+    "district": "Bình Thạnh",
+    "address": "45 Nguyễn Văn Lạc, Phường 19, Quận Bình Thạnh, TP.HCM",
+    "phone": "0906 385 018",
+    "specialties": [
+      "Há cảo tôm thịt hấp nóng hổi (vỏ mỏng dai mềm, nhân ngọt đậm)",
+      "Xíu mại tôm, xíu mại trứng cút",
+      "Bánh xếp hẹ, há cảo chiên giòn rụm",
+      "Nước tương pha dấm chua ngọt ăn kèm hành phi giòn và rau răm"
+    ],
+    "price_range": "30.000 - 50.000 VNĐ (5.000 VNĐ/viên)",
+    "highlights": "Quán há cảo lề đường nức tiếng nhiều năm khu Nguyễn Văn Lạc (gần cầu Thị Nghè), lúc nào cũng tấp nập khách ăn tại chỗ lẫn mua mang về. Các loại há cảo, xíu mại, bánh xếp được hấp liên tục trong các xửng tre bốc khói nghi ngút. Viên há cảo ú nu, vỏ mỏng dẻo không bở, nhân thịt tôm ngọt thơm đậm đà, phủ ngập hành phi thơm lừng cùng chén nước tương dấm chua ngọt chuẩn vị xế chiều Sài Gòn.",
+    "images": [
+      "images/ha_cao_45_nguyen_van_lac.jpg"
+    ],
+    "source": "Google Maps Review & Đánh giá cộng đồng ẩm thực Bình Thạnh",
+    "source_url": "https://www.google.com/maps/place?q=place_id:ChIJpfDAJbIodTERpuISnZOEYRM",
+    "tags": [
+      "Bình Thạnh",
+      "Nguyễn Văn Lạc",
+      "Thị Nghè",
+      "Há cảo",
+      "Xíu mại",
+      "Ăn vặt",
+      "Quán mới"
+    ],
+    "date_added": "2026-11-22"
   }
 ]

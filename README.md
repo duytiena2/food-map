@@ -425,3 +425,15 @@ Kho lưu trữ các quán ăn, món ngon, review thực tế thu thập hàng ng
 * **Tags:** `#Bình Thạnh`, `#Vạn Kiếp`, `#Bánh cuốn trứng`, `#Bánh cuốn nóng`, `#Món sáng`, `#Núp hẻm`, `#Quán mới`
 
 ---
+
+## 37. Há Cảo 45 (Nguyễn Văn Lạc - Bình Thạnh)
+![Há Cảo 45](images/ha_cao_45_nguyen_van_lac.jpg)
+* **Địa chỉ:** 45 Nguyễn Văn Lạc, Phường 19, Quận Bình Thạnh, TP.HCM
+* **Hotline:** 0906 385 018
+* **Món chính / Must-try:** Há cảo tôm thịt hấp nóng hổi (vỏ mỏng dai mềm, nhân ngọt đậm), Xíu mại tôm, xíu mại trứng cút, Bánh xếp hẹ, há cảo chiên giòn rụm, Nước tương pha dấm chua ngọt ăn kèm hành phi giòn và rau răm
+* **Giá cả:** 30.000 - 50.000 VNĐ (5.000 VNĐ/viên)
+* **Đánh giá & Điểm nổi bật:** Quán há cảo lề đường nức tiếng nhiều năm khu Nguyễn Văn Lạc (gần cầu Thị Nghè), lúc nào cũng tấp nập khách ăn tại chỗ lẫn mua mang về. Các loại há cảo, xíu mại, bánh xếp được hấp liên tục trong các xửng tre bốc khói nghi ngút. Viên há cảo ú nu, vỏ mỏng dẻo không bở, nhân thịt tôm ngọt thơm đậm đà, phủ ngập hành phi thơm lừng cùng chén nước tương dấm chua ngọt chuẩn vị xế chiều Sài Gòn.
+* **Nguồn review & Link bài viết:** [Google Maps Review & Đánh giá cộng đồng](https://www.google.com/maps/place?q=place_id:ChIJpfDAJbIodTERpuISnZOEYRM)
+* **Tags:** , , , , , , 
+
+---
