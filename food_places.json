@@ -1125,5 +1125,37 @@
       "Quán mới"
     ],
     "date_added": "2026-11-22"
+  },
+  {
+    "id": "com-tam-hem-33-nguyen-dinh-chinh",
+    "name": "Cơm Tấm Hẻm 33 (Nguyễn Đình Chính)",
+    "category": "Cơm tấm & Ăn sáng/tối",
+    "city": "Hồ Chí Minh",
+    "district": "Phú Nhuận",
+    "address": "33/16 Nguyễn Đình Chính, Phường 15, Quận Phú Nhuận, TP.HCM",
+    "phone": "0933 616 230",
+    "specialties": [
+      "Cơm tấm nạc giòn (thịt nạc nọng nướng than sần sật béo ngậy)",
+      "Sườn nướng than hoa đậm đà gia truyền",
+      "Chả cua hấp béo thơm, bì sợi giòn dai",
+      "Nước mắm kẹo sóng sánh kèm tóp mỡ giòn rụm"
+    ],
+    "price_range": "35.000 - 80.000 VNĐ",
+    "highlights": "Quán cơm tấm núp hẻm nức tiếng Phú Nhuận được chấm 4.4/5 sao trên Google Maps với hàng trăm lượt đánh giá. Quán tạo nên cơn sốt ẩm thực nhờ món 'nạc giòn' (thịt nọng heo) nướng than hồng lạ miệng vừa béo vừa giòn sần sật hiếm nơi nào có, hòa quyện cùng hạt cơm tấm tơi dẻo, sườn ướp thấm vị và chén nước mắm kẹo sóng sánh chuẩn gu Sài Gòn.",
+    "images": [
+      "images/com_tam_hem_33.jpg"
+    ],
+    "source": "Google Maps Review & Đánh giá ẩm thực Sài Gòn",
+    "source_url": "https://www.google.com/maps/place?q=place_id:ChIJu6dThdYodTERPWbff_EopDI",
+    "tags": [
+      "Phú Nhuận",
+      "Nguyễn Đình Chính",
+      "Cơm tấm",
+      "Nạc giòn",
+      "Nạc nọng",
+      "Núp hẻm",
+      "Quán mới"
+    ],
+    "date_added": "2026-11-23"
   }
 ]
