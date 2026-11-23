@@ -434,6 +434,17 @@ Kho lưu trữ các quán ăn, món ngon, review thực tế thu thập hàng ng
 * **Giá cả:** 30.000 - 50.000 VNĐ (5.000 VNĐ/viên)
 * **Đánh giá & Điểm nổi bật:** Quán há cảo lề đường nức tiếng nhiều năm khu Nguyễn Văn Lạc (gần cầu Thị Nghè), lúc nào cũng tấp nập khách ăn tại chỗ lẫn mua mang về. Các loại há cảo, xíu mại, bánh xếp được hấp liên tục trong các xửng tre bốc khói nghi ngút. Viên há cảo ú nu, vỏ mỏng dẻo không bở, nhân thịt tôm ngọt thơm đậm đà, phủ ngập hành phi thơm lừng cùng chén nước tương dấm chua ngọt chuẩn vị xế chiều Sài Gòn.
 * **Nguồn review & Link bài viết:** [Google Maps Review & Đánh giá cộng đồng](https://www.google.com/maps/place?q=place_id:ChIJpfDAJbIodTERpuISnZOEYRM)
-* **Tags:** , , , , , , 
+* **Tags:** `#Bình Thạnh`, `#Nguyễn Văn Lạc`, `#Thị Nghè`, `#Há cảo`, `#Xíu mại`, `#Ăn vặt`, `#Quán mới`
 
 ---
+
+## 38. Cơm Tấm Hẻm 33 (Nguyễn Đình Chính - Phú Nhuận)
+![Cơm Tấm Hẻm 33](images/com_tam_hem_33.jpg)
+* **Địa chỉ:** 33/16 Nguyễn Đình Chính, Phường 15, Quận Phú Nhuận, TP.HCM
+* **Hotline:** 0933 616 230
+* **Món chính / Must-try:** Cơm tấm nạc giòn (thịt nạc nọng nướng than sần sật béo ngậy), Sườn nướng than hoa đậm đà gia truyền, Chả cua hấp béo thơm, Bì sợi giòn dai, Nước mắm kẹo sóng sánh kèm tóp mỡ giòn rụm
+* **Giá cả:** 35.000 - 80.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Quán cơm tấm núp hẻm nức tiếng Phú Nhuận được chấm 4.4/5 sao trên Google Maps với hàng trăm lượt đánh giá. Quán tạo nên cơn sốt ẩm thực nhờ món "nạc giòn" (thịt nọng heo) nướng than hồng lạ miệng vừa béo vừa giòn sần sật hiếm nơi nào có, hòa quyện cùng hạt cơm tấm tơi dẻo, sườn ướp thấm vị và chén nước mắm kẹo sóng sánh chuẩn gu Sài Gòn.
+* **Nguồn review & Link bài viết:** [Google Maps Review & Đánh giá ẩm thực Sài Gòn](https://www.google.com/maps/place?q=place_id:ChIJu6dThdYodTERPWbff_EopDI)
+* **Tags:** `#Phú Nhuận`, `#Nguyễn Đình Chính`, `#Cơm tấm`, `#Nạc giòn`, `#Nạc nọng`, `#Núp hẻm`, `#Quán mới`
+
