@@ -1157,5 +1157,38 @@
       "Quán mới"
     ],
     "date_added": "2026-11-23"
+  },
+  {
+    "id": "com-tam-cay-thi-le-duc-tho",
+    "name": "Cơm Tấm Cây Thị (Lê Đức Thọ)",
+    "category": "Cơm tấm & Ăn tối/đêm",
+    "city": "Hồ Chí Minh",
+    "district": "Gò Vấp",
+    "address": "456 Lê Đức Thọ, Phường 17, Quận Gò Vấp, TP.HCM",
+    "phone": "0937 468 780",
+    "specialties": [
+      "Sườn nướng than hoa đậm đà",
+      "Sườn cây nướng mọng nước",
+      "Bì chả, trứng ốp la lòng đào",
+      "Mỡ hành tóp mỡ giòn rụm xin thêm thoải mái",
+      "Nước mắm kẹo dẻo cay nhẹ"
+    ],
+    "price_range": "25.000 - 50.000 VNĐ",
+    "highlights": "Hàng cơm tấm bình dân nức tiếng trên trục đường Lê Đức Thọ (Gò Vấp), luôn tấp nập khách từ xế chiều đến nửa đêm. Sườn nướng than hoa vàng ươm, thơm lừng không bị khô, hạt cơm tấm tơi xốp, chén tóp mỡ mỡ hành béo ngậy giòn rụm được cho rất hào phóng kèm nước mắm kẹo đậm đà chuẩn gu Sài Gòn.",
+    "images": [
+      "images/com_tam_cay_thi.jpg"
+    ],
+    "source": "Foody & Đánh giá ẩm thực Gò Vấp",
+    "source_url": "https://www.google.com/maps/place?q=place_id:ChIJ5fI32R8pdTER3R0TCCwI5gg",
+    "tags": [
+      "Gò Vấp",
+      "Lê Đức Thọ",
+      "Cơm tấm",
+      "Sườn nướng",
+      "Ăn tối",
+      "Ăn đêm",
+      "Quán mới"
+    ],
+    "date_added": "2026-11-24"
   }
 ]

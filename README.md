@@ -448,3 +448,15 @@ Kho lưu trữ các quán ăn, món ngon, review thực tế thu thập hàng ng
 * **Nguồn review & Link bài viết:** [Google Maps Review & Đánh giá ẩm thực Sài Gòn](https://www.google.com/maps/place?q=place_id:ChIJu6dThdYodTERPWbff_EopDI)
 * **Tags:** `#Phú Nhuận`, `#Nguyễn Đình Chính`, `#Cơm tấm`, `#Nạc giòn`, `#Nạc nọng`, `#Núp hẻm`, `#Quán mới`
 
+
+---
+
+## 39. Cơm Tấm Cây Thị (Lê Đức Thọ - Gò Vấp)
+![Cơm Tấm Cây Thị](images/com_tam_cay_thi.jpg)
+* **Địa chỉ:** 456 Lê Đức Thọ, Phường 17, Quận Gò Vấp, TP.HCM
+* **Hotline:** 0937 468 780
+* **Món chính / Must-try:** Sườn nướng than hoa đậm đà, Sườn cây nướng mọng nước, Bì chả, trứng ốp la lòng đào, Mỡ hành tóp mỡ giòn rụm xin thêm thoải mái, Nước mắm kẹo dẻo cay nhẹ
+* **Giá cả:** 25.000 - 50.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Hàng cơm tấm bình dân nức tiếng trên trục đường Lê Đức Thọ (Gò Vấp), luôn tấp nập khách từ xế chiều đến nửa đêm. Sườn nướng than hoa vàng ươm, thơm lừng không bị khô, hạt cơm tấm tơi xốp, chén tóp mỡ mỡ hành béo ngậy giòn rụm được cho rất hào phóng kèm nước mắm kẹo đậm đà chuẩn gu Sài Gòn.
+* **Nguồn review & Link bài viết:** [Google Maps Review & Đánh giá ẩm thực Gò Vấp](https://www.google.com/maps/place?q=place_id:ChIJ5fI32R8pdTER3R0TCCwI5gg)
+* **Tags:** `#Gò Vấp`, `#Lê Đức Thọ`, `#Cơm tấm`, `#Sườn nướng`, `#Ăn tối`, `#Ăn đêm`, `#Quán mới`
