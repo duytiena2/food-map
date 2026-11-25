@@ -460,3 +460,15 @@ Kho lưu trữ các quán ăn, món ngon, review thực tế thu thập hàng ng
 * **Đánh giá & Điểm nổi bật:** Hàng cơm tấm bình dân nức tiếng trên trục đường Lê Đức Thọ (Gò Vấp), luôn tấp nập khách từ xế chiều đến nửa đêm. Sườn nướng than hoa vàng ươm, thơm lừng không bị khô, hạt cơm tấm tơi xốp, chén tóp mỡ mỡ hành béo ngậy giòn rụm được cho rất hào phóng kèm nước mắm kẹo đậm đà chuẩn gu Sài Gòn.
 * **Nguồn review & Link bài viết:** [Google Maps Review & Đánh giá ẩm thực Gò Vấp](https://www.google.com/maps/place?q=place_id:ChIJ5fI32R8pdTER3R0TCCwI5gg)
 * **Tags:** `#Gò Vấp`, `#Lê Đức Thọ`, `#Cơm tấm`, `#Sườn nướng`, `#Ăn tối`, `#Ăn đêm`, `#Quán mới`
+
+---
+
+## 40. Bún Thịt Nướng Kiều Bảo (Quang Trung - Gò Vấp)
+![Bún Thịt Nướng Kiều Bảo](images/bun_thit_nuong_kieu_bao.jpg)
+* **Địa chỉ:** 850 Quang Trung, Phường 8, Quận Gò Vấp, TP.HCM
+* **Hotline:** 0939 604 937
+* **Món chính / Must-try:** Bún thịt nướng đầy đủ (thịt nướng, nem nướng, chả giò), Chả giò chiên nóng giòn rụm, Nem nướng thơm đậm vị, Refill rau sống và bún tươi miễn phí
+* **Giá cả:** 25.000 - 40.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Quán bún thịt nướng nổi tiếng Gò Vấp với 1.170+ lượt đánh giá trên Google Maps (4.1/5 sao) và cộng đồng Lemon8/Foody. Điểm hút khách lớn nhất là chính sách refill rau sống và bún tươi hoàn toàn miễn phí. Thịt nướng ướp đậm đà cháy xém nhẹ, chả giò chiên nóng giòn rụm, nước mắm chua ngọt thơm mùi tỏi vừa miệng; mở cửa từ 11h00 đến 21h00.
+* **Nguồn review & Link bài viết:** [Google Maps Review, Foody & Lemon8](https://www.google.com/maps/place?q=place_id:ChIJN_5VAZ8pdTERPj35-iSPUPk)
+* **Tags:** `#Gò Vấp`, `#Quang Trung`, `#Bún thịt nướng`, `#Chả giò`, `#Refill miễn phí`, `#Bình dân`, `#Quán mới`
