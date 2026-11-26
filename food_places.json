@@ -1222,5 +1222,70 @@
       "Quán mới"
     ],
     "date_added": "2026-11-25"
+  },
+  {
+    "id": "tiem-lau-bo-tram-ruoi-go-vap",
+    "name": "Tiệm Lẩu Bò Trăm Rưỡi (Phan Văn Trị)",
+    "category": "Lẩu & Nướng",
+    "city": "Hồ Chí Minh",
+    "district": "Gò Vấp",
+    "address": "701 Phan Văn Trị, Quận Gò Vấp, TP.HCM (còn có chi nhánh 685 Quang Trung, 107 Lê Đức Thọ & 342 Phan Huy Ích)",
+    "phone": "0855 660 779",
+    "specialties": [
+      "Set lẩu bò Triều Châu 150k",
+      "Gù bò & Gầu bò thái tay",
+      "Tàu hũ ky cuộn tôm",
+      "Bò gân viên Tứ Xuyên",
+      "Quầy nước chấm tự chọn miễn phí"
+    ],
+    "price_range": "150.000 - 200.000 VNĐ",
+    "highlights": "Quán lẩu bò Triều Châu gây sốt MXH và báo chí năm 2026 với mức giá chỉ từ 150k/set đầy đặn. Bò nhập tươi mỗi ngày và thái tay tại quầy để thực khách quan sát trực tiếp; nổi bật nhất là gù bò, gầu bò giòn sần sật, tàu hũ ky cuộn tôm đậm vị và quầy nước chấm đa dạng. Mở cửa 16:00 - 00:30, buổi tối cực kỳ đông khách thường phải chờ bàn.",
+    "images": [
+      "images/tiem_lau_bo_tram_ruoi.jpg"
+    ],
+    "source": "Kenh14, CafeF & TikTok Food Review",
+    "source_url": "https://kenh14.vn/quan-lau-bo-tram-ruoi-dong-toi-muc-khach-ghe-4-lan-chi-2-lan-duoc-ngoi-215260814132519162.chn",
+    "tags": [
+      "Gò Vấp",
+      "Phan Văn Trị",
+      "Lẩu bò",
+      "Lẩu bò Triều Châu",
+      "Ăn tối",
+      "Ăn đêm",
+      "Quán mới"
+    ],
+    "date_added": "2026-11-26"
+  },
+  {
+    "id": "quan-thai-khapi-binh-thanh",
+    "name": "Quán Thái Khapi (Ung Văn Khiêm)",
+    "category": "Món Thái & Hẹn hò",
+    "city": "Hồ Chí Minh",
+    "district": "Bình Thạnh",
+    "address": "100 Ung Văn Khiêm, Phường 25, Quận Bình Thạnh, TP.HCM",
+    "phone": "0933 675 382",
+    "specialties": [
+      "Gỏi đu đủ ba khía (79k)",
+      "Tháp sườn cay",
+      "Pad Thái xào wok",
+      "Cơm chiên mắm ruốc Thái"
+    ],
+    "price_range": "100.000 - 200.000 VNĐ",
+    "highlights": "Quán Thái nổi tiếng trên TikTok (@quanthai.khapi 50.9K followers) với hương vị Thái Lan nguyên bản đậm đà, không bị Việt hóa nhạt vị. Menu hơn 36 món từ gỏi đu đủ ba khía chua cay bùng nổ (79k) đến tháp sườn cay và cơm chiên mắm ruốc; không gian 2 tầng có lầu chill cho nhóm bạn và bãi đậu ô tô. Mở cửa 11:00 - 23:00 hàng ngày.",
+    "images": [
+      "images/quan_thai_khapi.jpg"
+    ],
+    "source": "TikTok & Vietinsiders Review",
+    "source_url": "https://vietinsiders.com/places/quan-thai-khapi-ung-van-khiem-binh-thanh",
+    "tags": [
+      "Bình Thạnh",
+      "Ung Văn Khiêm",
+      "Món Thái",
+      "Tháp sườn cay",
+      "Gỏi ba khía",
+      "Tụ tập bạn bè",
+      "Quán mới"
+    ],
+    "date_added": "2026-11-26"
   }
 ]

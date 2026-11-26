@@ -472,3 +472,27 @@ Kho lưu trữ các quán ăn, món ngon, review thực tế thu thập hàng ng
 * **Đánh giá & Điểm nổi bật:** Quán bún thịt nướng nổi tiếng Gò Vấp với 1.170+ lượt đánh giá trên Google Maps (4.1/5 sao) và cộng đồng Lemon8/Foody. Điểm hút khách lớn nhất là chính sách refill rau sống và bún tươi hoàn toàn miễn phí. Thịt nướng ướp đậm đà cháy xém nhẹ, chả giò chiên nóng giòn rụm, nước mắm chua ngọt thơm mùi tỏi vừa miệng; mở cửa từ 11h00 đến 21h00.
 * **Nguồn review & Link bài viết:** [Google Maps Review, Foody & Lemon8](https://www.google.com/maps/place?q=place_id:ChIJN_5VAZ8pdTERPj35-iSPUPk)
 * **Tags:** `#Gò Vấp`, `#Quang Trung`, `#Bún thịt nướng`, `#Chả giò`, `#Refill miễn phí`, `#Bình dân`, `#Quán mới`
+
+---
+
+## 41. Tiệm Lẩu Bò Trăm Rưỡi (Phan Văn Trị - Gò Vấp)
+![Tiệm Lẩu Bò Trăm Rưỡi](images/tiem_lau_bo_tram_ruoi.jpg)
+* **Địa chỉ:** 701 Phan Văn Trị, Quận Gò Vấp, TP.HCM (còn có chi nhánh 685 Quang Trung, 107 Lê Đức Thọ & 342 Phan Huy Ích)
+* **Hotline:** 0855 660 779
+* **Món chính / Must-try:** Set lẩu bò Triều Châu 150k, Gù bò & Gầu bò thái tay, Tàu hũ ky cuộn tôm, Bò gân viên Tứ Xuyên, Quầy nước chấm tự chọn miễn phí
+* **Giá cả:** 150.000 - 200.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Quán lẩu bò Triều Châu gây sốt MXH và báo chí năm 2026 với mức giá chỉ từ 150k/set đầy đặn. Bò nhập tươi mỗi ngày và thái tay tại quầy để thực khách quan sát trực tiếp; nổi bật nhất là gù bò, gầu bò giòn sần sật, tàu hũ ky cuộn tôm đậm vị và quầy nước chấm đa dạng. Mở cửa 16:00 - 00:30, buổi tối cực kỳ đông khách thường phải chờ bàn.
+* **Nguồn review & Link bài viết:** [Kenh14, CafeF & TikTok Food Review](https://kenh14.vn/quan-lau-bo-tram-ruoi-dong-toi-muc-khach-ghe-4-lan-chi-2-lan-duoc-ngoi-215260814132519162.chn)
+* **Tags:** `#Gò Vấp`, `#Phan Văn Trị`, `#Lẩu bò`, `#Lẩu bò Triều Châu`, `#Ăn tối`, `#Ăn đêm`, `#Quán mới`
+
+---
+
+## 42. Quán Thái Khapi (Ung Văn Khiêm - Bình Thạnh)
+![Quán Thái Khapi](images/quan_thai_khapi.jpg)
+* **Địa chỉ:** 100 Ung Văn Khiêm, Phường 25, Quận Bình Thạnh, TP.HCM
+* **Hotline:** 0933 675 382
+* **Món chính / Must-try:** Gỏi đu đủ ba khía (79k), Tháp sườn cay, Pad Thái xào wok, Cơm chiên mắm ruốc Thái
+* **Giá cả:** 100.000 - 200.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Quán Thái nổi tiếng trên TikTok (@quanthai.khapi 50.9K followers) với hương vị Thái Lan nguyên bản đậm đà, không bị Việt hóa nhạt vị. Menu hơn 36 món từ gỏi đu đủ ba khía chua cay bùng nổ (79k) đến tháp sườn cay và cơm chiên mắm ruốc; không gian 2 tầng có lầu chill cho nhóm bạn và bãi đậu ô tô. Mở cửa 11:00 - 23:00 hàng ngày.
+* **Nguồn review & Link bài viết:** [TikTok & Vietinsiders Review](https://vietinsiders.com/places/quan-thai-khapi-ung-van-khiem-binh-thanh)
+* **Tags:** `#Bình Thạnh`, `#Ung Văn Khiêm`, `#Món Thái`, `#Tháp sườn cay`, `#Gỏi ba khía`, `#Tụ tập bạn bè`, `#Quán mới`
