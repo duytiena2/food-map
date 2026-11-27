@@ -1287,5 +1287,68 @@
       "Quán mới"
     ],
     "date_added": "2026-11-26"
+  },
+  {
+    "id": "khen-nuong-sapa-go-vap",
+    "name": "KHÈN - Nướng Sapa (Vincom Quang Trung)",
+    "category": "Lẩu & Nướng",
+    "city": "Hồ Chí Minh",
+    "district": "Gò Vấp",
+    "address": "Tầng 2 TTTM Vincom Plaza Quang Trung, 190 Quang Trung, Phường 10, Quận Gò Vấp, TP.HCM",
+    "phone": "1900 636 886",
+    "specialties": [
+      "Bò Bản Tươi Nướng Khói Sapa & Xốt Mường Khương",
+      "Ba Chỉ Heo & Má Heo Xốt Bản Mường",
+      "Combo Bắt Chuyện 9 món (499k)",
+      "Chạo Tôm Tươi & Cánh Gà Xốt Mường Khương",
+      "Bánh Mì Nướng Mật Ong Rừng"
+    ],
+    "price_range": "200.000 - 300.000 VNĐ",
+    "highlights": "Nhà hàng nướng than hoa phong cách Tây Bắc Sapa trong không gian máy lạnh tại Vincom Quang Trung (Gò Vấp), đạt 5.0/5 sao từ hơn 1.000 đánh giá trên Google Maps và viral trên TikTok/Facebook. Thịt ướp gia vị bản địa đậm đà ăn kèm xốt Mường Khương cay tê đặc trưng, có các combo mâm nướng 9 món tiết kiệm cho nhóm bạn. Mở cửa 10:00 - 22:00 hàng ngày.",
+    "images": [
+      "images/khen_nuong_sapa.jpg"
+    ],
+    "source": "TikTok, Facebook & Google Maps Review",
+    "source_url": "https://khen.vn/khuyen-mai/giam-30-combo-bat-chuyen/",
+    "tags": [
+      "Gò Vấp",
+      "Quang Trung",
+      "Nướng Sapa",
+      "Nướng than hoa",
+      "Tây Bắc",
+      "Tụ tập bạn bè",
+      "Quán mới"
+    ],
+    "date_added": "2026-11-27"
+  },
+  {
+    "id": "bun-cha-ha-noi-thanh-phat-go-vap",
+    "name": "Bún Chả Hà Nội Thành Phát (Đường Số 9)",
+    "category": "Bún & Phở",
+    "city": "Hồ Chí Minh",
+    "district": "Gò Vấp",
+    "address": "45 Đường Số 9, Phường 16, Quận Gò Vấp, TP.HCM",
+    "phone": "",
+    "specialties": [
+      "Bún chả Hà Nội đầy đủ (chả miếng & chả băm)",
+      "Chả thịt nướng than hoa",
+      "Nước mắm chua ngọt kèm đu đủ xanh giòn rụm"
+    ],
+    "price_range": "50.000 - 100.000 VNĐ",
+    "highlights": "Quán bún chả chuẩn vị Hà Nội nổi tiếng tại khu vực Đường Số 9 (Gò Vấp), được đánh giá 4.7/5 sao trên Google Maps. Phần bún đầy đặn với chả thịt nướng than thơm phức, cân bằng tỉ lệ nạc mỡ mềm mọng không bị khô, ăn kèm rau sống tươi và nước mắm chua ngọt cay nhẹ cùng đu đủ xanh bào giòn. Mở cửa từ 06:00 - 20:00.",
+    "images": [
+      "images/bun_cha_thanh_phat.jpg"
+    ],
+    "source": "Green SM & Google Maps Review",
+    "source_url": "https://www.greensm.com/vn-vi/news/bun-cha-ha-noi-o-tphcm",
+    "tags": [
+      "Gò Vấp",
+      "Đường Số 9",
+      "Bún chả Hà Nội",
+      "Ăn sáng",
+      "Ăn trưa",
+      "Quán mới"
+    ],
+    "date_added": "2026-11-27"
   }
 ]

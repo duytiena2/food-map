@@ -496,3 +496,26 @@ Kho lưu trữ các quán ăn, món ngon, review thực tế thu thập hàng ng
 * **Đánh giá & Điểm nổi bật:** Quán Thái nổi tiếng trên TikTok (@quanthai.khapi 50.9K followers) với hương vị Thái Lan nguyên bản đậm đà, không bị Việt hóa nhạt vị. Menu hơn 36 món từ gỏi đu đủ ba khía chua cay bùng nổ (79k) đến tháp sườn cay và cơm chiên mắm ruốc; không gian 2 tầng có lầu chill cho nhóm bạn và bãi đậu ô tô. Mở cửa 11:00 - 23:00 hàng ngày.
 * **Nguồn review & Link bài viết:** [TikTok & Vietinsiders Review](https://vietinsiders.com/places/quan-thai-khapi-ung-van-khiem-binh-thanh)
 * **Tags:** `#Bình Thạnh`, `#Ung Văn Khiêm`, `#Món Thái`, `#Tháp sườn cay`, `#Gỏi ba khía`, `#Tụ tập bạn bè`, `#Quán mới`
+
+---
+
+## 43. KHÈN - Nướng Sapa (Vincom Quang Trung - Gò Vấp)
+![KHÈN - Nướng Sapa](images/khen_nuong_sapa.jpg)
+* **Địa chỉ:** Tầng 2 TTTM Vincom Plaza Quang Trung, 190 Quang Trung, Phường 10, Quận Gò Vấp, TP.HCM
+* **Hotline:** 1900 636 886
+* **Món chính / Must-try:** Bò Bản Tươi Nướng Khói Sapa & Xốt Mường Khương, Ba Chỉ Heo & Má Heo Xốt Bản Mường, Combo Bắt Chuyện 9 món (499k), Chạo Tôm Tươi & Cánh Gà Xốt Mường Khương, Bánh Mì Nướng Mật Ong Rừng
+* **Giá cả:** 200.000 - 300.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Nhà hàng nướng than hoa phong cách Tây Bắc Sapa trong không gian máy lạnh tại Vincom Quang Trung (Gò Vấp), đạt 5.0/5 sao từ hơn 1.000 đánh giá trên Google Maps và viral trên TikTok/Facebook. Thịt ướp gia vị bản địa đậm đà ăn kèm xốt Mường Khương cay tê đặc trưng, có các combo mâm nướng 9 món tiết kiệm cho nhóm bạn. Mở cửa 10:00 - 22:00 hàng ngày.
+* **Nguồn review & Link bài viết:** [TikTok, Facebook & Google Maps Review](https://khen.vn/khuyen-mai/giam-30-combo-bat-chuyen/)
+* **Tags:** `#Gò Vấp`, `#Quang Trung`, `#Nướng Sapa`, `#Nướng than hoa`, `#Tây Bắc`, `#Tụ tập bạn bè`, `#Quán mới`
+
+---
+
+## 44. Bún Chả Hà Nội Thành Phát (Đường Số 9 - Gò Vấp)
+![Bún Chả Hà Nội Thành Phát](images/bun_cha_thanh_phat.jpg)
+* **Địa chỉ:** 45 Đường Số 9, Phường 16, Quận Gò Vấp, TP.HCM
+* **Món chính / Must-try:** Bún chả Hà Nội đầy đủ (chả miếng & chả băm), Chả thịt nướng than hoa, Nước mắm chua ngọt kèm đu đủ xanh giòn rụm
+* **Giá cả:** 50.000 - 100.000 VNĐ
+* **Đánh giá & Điểm nổi bật:** Quán bún chả chuẩn vị Hà Nội nổi tiếng tại khu vực Đường Số 9 (Gò Vấp), được đánh giá 4.7/5 sao trên Google Maps. Phần bún đầy đặn với chả thịt nướng than thơm phức, cân bằng tỉ lệ nạc mỡ mềm mọng không bị khô, ăn kèm rau sống tươi và nước mắm chua ngọt cay nhẹ cùng đu đủ xanh bào giòn. Mở cửa từ 06:00 - 20:00.
+* **Nguồn review & Link bài viết:** [Green SM & Google Maps Review](https://www.greensm.com/vn-vi/news/bun-cha-ha-noi-o-tphcm)
+* **Tags:** `#Gò Vấp`, `#Đường Số 9`, `#Bún chả Hà Nội`, `#Ăn sáng`, `#Ăn trưa`, `#Quán mới`
