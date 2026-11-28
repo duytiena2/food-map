@@ -1350,5 +1350,71 @@
       "Quán mới"
     ],
     "date_added": "2026-11-27"
+  },
+  {
+    "id": "cloud-pot-phan-xich-long",
+    "name": "CLOUD POT - Lẩu Hấp Thủy Nhiệt (Phan Xích Long)",
+    "category": "Lẩu & Nướng",
+    "city": "Hồ Chí Minh",
+    "district": "Phú Nhuận",
+    "address": "147 Phan Xích Long, Phường 2, Quận Phú Nhuận, TP.HCM",
+    "phone": "028 7304 0637",
+    "specialties": [
+      "Lẩu hấp thủy nhiệt Tầng Mây Của Biển (hải sản tươi sống)",
+      "Lẩu hấp Tầng Mây Trang Trại (bò, bê, gà)",
+      "Cháo đáy nồi nấu từ nước cốt hấp ngọt thanh",
+      "Buffet nước chấm, nước uống & tráng miệng"
+    ],
+    "price_range": "200.000 - 300.000 VNĐ",
+    "highlights": "Quán lẩu hấp thủy nhiệt đang hot trên TikTok (@cloudpotphanxichlong) & khu Phan Xích Long (Phú Nhuận), set khoảng 199K/người ăn no kèm buffet nước chấm và tráng miệng. Nguyên liệu tươi hấp hơi nước giữ trọn vị ngọt tự nhiên, không dầu mỡ, đặc biệt phần nước cốt nhỏ xuống dùng nấu cháo đáy nồi cực kỳ thanh ngọt. Không gian thoáng, có phòng riêng, mở cửa 10:00 - 22:00 hàng ngày.",
+    "images": [
+      "images/cloud_pot_phan_xich_long.webp"
+    ],
+    "source": "TikTok & Vietinsiders Review",
+    "source_url": "https://vietinsiders.com/places/cloud-pot-phan-xich-long/",
+    "tags": [
+      "Phú Nhuận",
+      "Phan Xích Long",
+      "Lẩu hấp thủy nhiệt",
+      "Healthy",
+      "Hải sản",
+      "Tụ tập bạn bè",
+      "Quán mới"
+    ],
+    "date_added": "2026-11-28"
+  },
+  {
+    "id": "utage-yokocho-binh-thanh",
+    "name": "UTAGE Yokocho - Nhà Hàng Nhật Bản (Nguyễn Gia Trí)",
+    "category": "Món Nhật & Izakaya",
+    "city": "Hồ Chí Minh",
+    "district": "Bình Thạnh",
+    "address": "163 Nguyễn Gia Trí, Phường 25, Quận Bình Thạnh, TP.HCM",
+    "phone": "076 416 3300",
+    "specialties": [
+      "Yakitori (thịt nướng xiên than hoa)",
+      "Sashimi & Sushi cá hồi bơ tươi",
+      "Gà rán Karaage giòn rụm",
+      "Tempura tôm & rau củ",
+      "Rượu Sake, Shochu & Cocktail Nhật"
+    ],
+    "price_range": "200.000 - 300.000 VNĐ",
+    "highlights": "Quán izakaya chuẩn phong cách phố ẩm thực Nhật Bản trên đường Nguyễn Gia Trí (Bình Thạnh), đạt 4.9/5 sao từ 764 đánh giá trên Google Maps. Không gian ấm cúng tái hiện con phố Yokocho với quầy bar tương tác cùng đầu bếp, bàn nhóm và chỗ ngồi ngoài trời. Món ăn chuẩn vị từ yakitori nướng than, sashimi tươi đến karaage giòn tan, mở cửa muộn 11:00 - 00:00 hàng ngày.",
+    "images": [
+      "images/utage_yokocho_binh_thanh.webp"
+    ],
+    "source": "Facebook, Vietinsiders & Google Maps Review",
+    "source_url": "https://vietinsiders.com/places/utage-yokocho-binh-thanh/",
+    "tags": [
+      "Bình Thạnh",
+      "Nguyễn Gia Trí",
+      "Izakaya",
+      "Món Nhật",
+      "Yakitori",
+      "Sashimi",
+      "Ăn đêm",
+      "Quán mới"
+    ],
+    "date_added": "2026-11-28"
   }
 ]
